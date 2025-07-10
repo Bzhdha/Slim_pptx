@@ -1,0 +1,32 @@
+{
+    "environments": {
+        "pdf_analyzer": {
+            "name": "pdf_analyzer_env",
+            "python_version": "3.8",
+            "dependencies": [
+                "PyPDF2>=3.0.0",
+                "Pillow>=10.0.0",
+                "tkinterdnd2==0.3.0"
+            ]
+        },
+        "pptx_analyzer": {
+            "name": "pptx_analyzer_env",
+            "python_version": "3.8",
+            "dependencies": [
+                "python-pptx>=0.6.22",
+                "Pillow>=10.0.0",
+                "tkinterdnd2==0.3.0"
+            ]
+        },
+        "unified_analyzer": {
+            "name": "unified_analyzer_env",
+            "python_version": "3.8",
+            "dependencies": [
+                "PyPDF2>=3.0.0",
+                "python-pptx>=0.6.22",
+                "Pillow>=10.0.0",
+                "tkinterdnd2==0.3.0"
+            ]
+        }
+    }
+} 

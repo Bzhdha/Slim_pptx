@@ -1,0 +1,2110 @@
+2025-06-19 13:44:15,089 - INFO - Démarrage de l'application
+2025-06-19 13:45:48,854 - INFO - Tentative d'analyse du fichier : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie.pptx
+2025-06-19 13:45:48,856 - INFO - Fichier valide détecté : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie.pptx
+2025-06-19 13:45:48,857 - INFO - Début de l'analyse du fichier : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie.pptx
+2025-06-19 13:45:48,977 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide1.xml.rels: ../slideLayouts/slideLayout10.xml
+2025-06-19 13:45:48,979 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide2.xml.rels: ../slideLayouts/slideLayout5.xml
+2025-06-19 13:45:48,980 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide3.xml.rels: ../slideLayouts/slideLayout7.xml
+2025-06-19 13:45:48,981 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide4.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,982 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide5.xml.rels: ../slideLayouts/slideLayout2.xml
+2025-06-19 13:45:48,983 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide6.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,983 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide7.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,984 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide8.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,985 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide9.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,985 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide10.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,987 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide11.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,988 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide12.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,988 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide13.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,989 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide14.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,990 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide15.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,991 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide16.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,991 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide17.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 13:45:48,992 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide18.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 13:45:48,993 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide19.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 13:45:48,993 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide20.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 13:45:48,994 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide21.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 13:45:48,994 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide22.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,995 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide23.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,995 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide24.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,997 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide25.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,997 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide26.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 13:45:48,998 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide27.xml.rels: ../slideLayouts/slideLayout35.xml
+2025-06-19 13:45:48,999 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide28.xml.rels: ../slideLayouts/slideLayout38.xml
+2025-06-19 13:45:49,000 - INFO - Layouts utilisés détectés : ['1', '10', '2', '35', '38', '42', '5', '7']
+2025-06-19 13:45:49,000 - INFO - Layouts utilisés détectés : ['1', '10', '2', '35', '38', '42', '5', '7']
+2025-06-19 13:45:49,003 - DEBUG - Image image1.gif trouvée dans le layout 5 via ppt/slideLayouts/_rels/slideLayout5.xml.rels
+2025-06-19 13:45:49,004 - DEBUG - Image image3.png trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 13:45:49,004 - DEBUG - Image image5.jpeg trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 13:45:49,005 - DEBUG - Image image6.gif trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 13:45:49,005 - DEBUG - Image image3.png trouvée dans le layout 35 via ppt/slideLayouts/_rels/slideLayout35.xml.rels
+2025-06-19 13:45:49,006 - DEBUG - Image image3.png trouvée dans le layout 38 via ppt/slideLayouts/_rels/slideLayout38.xml.rels
+2025-06-19 13:45:49,008 - INFO - Images du layout 5 : ['image1.gif']
+2025-06-19 13:45:49,008 - INFO - Images du layout 10 : ['image3.png', 'image5.jpeg', 'image6.gif']
+2025-06-19 13:45:49,008 - INFO - Images du layout 35 : ['image3.png']
+2025-06-19 13:45:49,009 - INFO - Images du layout 38 : ['image3.png']
+2025-06-19 13:45:49,009 - INFO - Total des images utilisées dans les layouts : 4
+2025-06-19 13:45:49,011 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,013 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,014 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,014 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,015 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,015 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,015 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,017 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,018 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,019 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,022 - DEBUG - Nouvelle image détectée, taille : 6.24 KB, nom : image30.png
+2025-06-19 13:45:49,023 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,024 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,027 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,027 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,030 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,031 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,031 - DEBUG - Analyse de 40 formes
+2025-06-19 13:45:49,032 - DEBUG - Traitement de la forme 1/40
+2025-06-19 13:45:49,033 - DEBUG - Traitement de la forme 2/40
+2025-06-19 13:45:49,034 - DEBUG - Traitement de la forme 3/40
+2025-06-19 13:45:49,034 - DEBUG - Traitement de la forme 4/40
+2025-06-19 13:45:49,035 - DEBUG - Traitement de la forme 5/40
+2025-06-19 13:45:49,035 - DEBUG - Traitement de la forme 6/40
+2025-06-19 13:45:49,037 - DEBUG - Traitement de la forme 7/40
+2025-06-19 13:45:49,038 - DEBUG - Traitement de la forme 8/40
+2025-06-19 13:45:49,039 - DEBUG - Traitement de la forme 9/40
+2025-06-19 13:45:49,040 - DEBUG - Traitement de la forme 10/40
+2025-06-19 13:45:49,042 - DEBUG - Traitement de la forme 11/40
+2025-06-19 13:45:49,044 - DEBUG - Traitement de la forme 12/40
+2025-06-19 13:45:49,045 - DEBUG - Traitement de la forme 13/40
+2025-06-19 13:45:49,045 - DEBUG - Traitement de la forme 14/40
+2025-06-19 13:45:49,045 - DEBUG - Traitement de la forme 15/40
+2025-06-19 13:45:49,047 - DEBUG - Traitement de la forme 16/40
+2025-06-19 13:45:49,048 - DEBUG - Traitement de la forme 17/40
+2025-06-19 13:45:49,049 - DEBUG - Traitement de la forme 18/40
+2025-06-19 13:45:49,051 - DEBUG - Traitement de la forme 19/40
+2025-06-19 13:45:49,051 - DEBUG - Traitement de la forme 20/40
+2025-06-19 13:45:49,051 - DEBUG - Traitement de la forme 21/40
+2025-06-19 13:45:49,052 - DEBUG - Traitement de la forme 22/40
+2025-06-19 13:45:49,053 - DEBUG - Traitement de la forme 23/40
+2025-06-19 13:45:49,053 - DEBUG - Traitement de la forme 24/40
+2025-06-19 13:45:49,054 - DEBUG - Traitement de la forme 25/40
+2025-06-19 13:45:49,055 - DEBUG - Traitement de la forme 26/40
+2025-06-19 13:45:49,055 - DEBUG - Traitement de la forme 27/40
+2025-06-19 13:45:49,055 - DEBUG - Traitement de la forme 28/40
+2025-06-19 13:45:49,056 - DEBUG - Traitement de la forme 29/40
+2025-06-19 13:45:49,056 - DEBUG - Traitement de la forme 30/40
+2025-06-19 13:45:49,058 - DEBUG - Traitement de la forme 31/40
+2025-06-19 13:45:49,058 - DEBUG - Traitement de la forme 32/40
+2025-06-19 13:45:49,061 - DEBUG - Traitement de la forme 33/40
+2025-06-19 13:45:49,062 - DEBUG - Traitement de la forme 34/40
+2025-06-19 13:45:49,064 - DEBUG - Traitement de la forme 35/40
+2025-06-19 13:45:49,068 - DEBUG - Traitement de la forme 36/40
+2025-06-19 13:45:49,070 - DEBUG - Traitement de la forme 37/40
+2025-06-19 13:45:49,072 - DEBUG - Traitement de la forme 38/40
+2025-06-19 13:45:49,073 - DEBUG - Traitement de la forme 39/40
+2025-06-19 13:45:49,074 - DEBUG - Traitement de la forme 40/40
+2025-06-19 13:45:49,075 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,075 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,078 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,079 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,080 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,081 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,081 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,082 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,083 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,083 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,084 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,085 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,085 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,086 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,086 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,088 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,089 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,090 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,090 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,090 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,091 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,094 - DEBUG - Nouvelle image détectée, taille : 51.30 KB, nom : image31.png
+2025-06-19 13:45:49,098 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,099 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,100 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,102 - DEBUG - Nouvelle image détectée, taille : 86.59 KB, nom : image32.png
+2025-06-19 13:45:49,105 - DEBUG - Image rognée détectée - Crop values: L=0.3768, T=0.0, R=0.0, B=0.0
+2025-06-19 13:45:49,106 - DEBUG - Image rognée - Nom: image32.png, Taille: 86.59 KB, Ratio de rognage: 9.4%, Slide: 13, Dimensions d'affichage: 23.92x6.53 cm
+2025-06-19 13:45:49,111 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,112 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,112 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,115 - DEBUG - Nouvelle image détectée, taille : 36.35 KB, nom : image33.png
+2025-06-19 13:45:49,118 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,119 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,120 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,121 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,121 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,122 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,123 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,124 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,128 - DEBUG - Nouvelle image détectée, taille : 315.47 KB, nom : image34.png
+2025-06-19 13:45:49,129 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,131 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,132 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,133 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,135 - DEBUG - Nouvelle image détectée, taille : 145.22 KB, nom : image35.png
+2025-06-19 13:45:49,141 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,143 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,144 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,148 - DEBUG - Nouvelle image détectée, taille : 43.24 KB, nom : image36.jpeg
+2025-06-19 13:45:49,150 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,157 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,158 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,159 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,160 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,163 - DEBUG - Nouvelle image détectée, taille : 70.25 KB, nom : image37.png
+2025-06-19 13:45:49,167 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,169 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,170 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,172 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,175 - DEBUG - Nouvelle image détectée, taille : 310.35 KB, nom : image38.png
+2025-06-19 13:45:49,180 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,180 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,181 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,182 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,182 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,183 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,184 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,186 - DEBUG - Nouvelle image détectée, taille : 15.99 KB, nom : image39.png
+2025-06-19 13:45:49,191 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,192 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,193 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,194 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,196 - DEBUG - Nouvelle image détectée, taille : 254.06 KB, nom : image40.png
+2025-06-19 13:45:49,200 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,201 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,201 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,202 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,205 - DEBUG - Nouvelle image détectée, taille : 9.85 KB, nom : image41.png
+2025-06-19 13:45:49,209 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,210 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,211 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,213 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,215 - DEBUG - Nouvelle image détectée, taille : 9.25 KB, nom : image42.png
+2025-06-19 13:45:49,219 - DEBUG - Analyse de 1 formes
+2025-06-19 13:45:49,219 - DEBUG - Traitement de la forme 1/1
+2025-06-19 13:45:49,228 - DEBUG - Nouvelle image détectée, taille : 4697.79 KB, nom : image43.jpeg
+2025-06-19 13:45:49,230 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,232 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,236 - DEBUG - Nouvelle image détectée, taille : 724.53 KB, nom : image44.gif
+2025-06-19 13:45:49,237 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,239 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,239 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,245 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,245 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,246 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,247 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,248 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,249 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,249 - DEBUG - Analyse de 7 formes
+2025-06-19 13:45:49,250 - DEBUG - Traitement de la forme 1/7
+2025-06-19 13:45:49,251 - DEBUG - Traitement de la forme 2/7
+2025-06-19 13:45:49,253 - DEBUG - Traitement de la forme 3/7
+2025-06-19 13:45:49,255 - DEBUG - Traitement de la forme 4/7
+2025-06-19 13:45:49,256 - DEBUG - Traitement de la forme 5/7
+2025-06-19 13:45:49,257 - DEBUG - Traitement de la forme 6/7
+2025-06-19 13:45:49,258 - DEBUG - Traitement de la forme 7/7
+2025-06-19 13:45:49,260 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,263 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,263 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,264 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,265 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,266 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,270 - DEBUG - Nouvelle image détectée, taille : 43.28 KB, nom : image1.gif
+2025-06-19 13:45:49,270 - DEBUG - Image rognée détectée - Crop values: L=0.0, T=0.20854, R=0.0, B=0.0
+2025-06-19 13:45:49,271 - DEBUG - Image rognée - Nom: image1.gif, Taille: 43.28 KB, Ratio de rognage: 5.2%, Slide: N/A, Dimensions d'affichage: 9.53x7.55 cm
+2025-06-19 13:45:49,271 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,274 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,276 - DEBUG - Image rognée détectée - Crop values: L=0.0, T=0.20854, R=0.0, B=0.0
+2025-06-19 13:45:49,276 - DEBUG - Image rognée - Nom: image1.gif, Taille: 43.28 KB, Ratio de rognage: 5.2%, Slide: N/A, Dimensions d'affichage: 9.53x7.55 cm
+2025-06-19 13:45:49,278 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,278 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,279 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,279 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,280 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,281 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,281 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,282 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,283 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,283 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,283 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,284 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,284 - DEBUG - Analyse de 5 formes
+2025-06-19 13:45:49,285 - DEBUG - Traitement de la forme 1/5
+2025-06-19 13:45:49,289 - DEBUG - Nouvelle image détectée, taille : 899.97 KB, nom : image2.png
+2025-06-19 13:45:49,290 - DEBUG - Traitement de la forme 2/5
+2025-06-19 13:45:49,292 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,293 - DEBUG - Traitement de la forme 3/5
+2025-06-19 13:45:49,294 - DEBUG - Traitement de la forme 4/5
+2025-06-19 13:45:49,295 - DEBUG - Traitement de la forme 5/5
+2025-06-19 13:45:49,300 - DEBUG - Nouvelle image détectée, taille : 324.35 KB, nom : image4.gif
+2025-06-19 13:45:49,301 - DEBUG - Analyse de 6 formes
+2025-06-19 13:45:49,303 - DEBUG - Traitement de la forme 1/6
+2025-06-19 13:45:49,306 - DEBUG - Nouvelle image détectée, taille : 70.79 KB, nom : image5.jpeg
+2025-06-19 13:45:49,310 - DEBUG - Traitement de la forme 2/6
+2025-06-19 13:45:49,312 - DEBUG - Traitement de la forme 3/6
+2025-06-19 13:45:49,315 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,316 - DEBUG - Traitement de la forme 4/6
+2025-06-19 13:45:49,317 - DEBUG - Traitement de la forme 5/6
+2025-06-19 13:45:49,317 - DEBUG - Traitement de la forme 6/6
+2025-06-19 13:45:49,322 - DEBUG - Nouvelle image détectée, taille : 643.41 KB, nom : image6.gif
+2025-06-19 13:45:49,322 - DEBUG - Analyse de 6 formes
+2025-06-19 13:45:49,323 - DEBUG - Traitement de la forme 1/6
+2025-06-19 13:45:49,325 - DEBUG - Nouvelle image détectée, taille : 110.10 KB, nom : image7.jpeg
+2025-06-19 13:45:49,326 - DEBUG - Traitement de la forme 2/6
+2025-06-19 13:45:49,327 - DEBUG - Traitement de la forme 3/6
+2025-06-19 13:45:49,327 - DEBUG - Traitement de la forme 4/6
+2025-06-19 13:45:49,330 - DEBUG - Nouvelle image détectée, taille : 1.72 KB, nom : image8.png
+2025-06-19 13:45:49,331 - DEBUG - Traitement de la forme 5/6
+2025-06-19 13:45:49,332 - DEBUG - Traitement de la forme 6/6
+2025-06-19 13:45:49,335 - DEBUG - Nouvelle image détectée, taille : 324.35 KB, nom : image4.gif
+2025-06-19 13:45:49,337 - DEBUG - Analyse de 5 formes
+2025-06-19 13:45:49,337 - DEBUG - Traitement de la forme 1/5
+2025-06-19 13:45:49,340 - DEBUG - Nouvelle image détectée, taille : 117.10 KB, nom : image9.jpeg
+2025-06-19 13:45:49,341 - DEBUG - Traitement de la forme 2/5
+2025-06-19 13:45:49,342 - DEBUG - Traitement de la forme 3/5
+2025-06-19 13:45:49,346 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,347 - DEBUG - Traitement de la forme 4/5
+2025-06-19 13:45:49,348 - DEBUG - Traitement de la forme 5/5
+2025-06-19 13:45:49,349 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,349 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,352 - DEBUG - Nouvelle image détectée, taille : 82.09 KB, nom : image10.jpeg
+2025-06-19 13:45:49,353 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,354 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,356 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,358 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,359 - DEBUG - Analyse de 5 formes
+2025-06-19 13:45:49,360 - DEBUG - Traitement de la forme 1/5
+2025-06-19 13:45:49,363 - DEBUG - Nouvelle image détectée, taille : 172.87 KB, nom : image11.jpeg
+2025-06-19 13:45:49,364 - DEBUG - Traitement de la forme 2/5
+2025-06-19 13:45:49,364 - DEBUG - Traitement de la forme 3/5
+2025-06-19 13:45:49,366 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,367 - DEBUG - Traitement de la forme 4/5
+2025-06-19 13:45:49,367 - DEBUG - Traitement de la forme 5/5
+2025-06-19 13:45:49,369 - DEBUG - Analyse de 5 formes
+2025-06-19 13:45:49,370 - DEBUG - Traitement de la forme 1/5
+2025-06-19 13:45:49,372 - DEBUG - Nouvelle image détectée, taille : 85.19 KB, nom : image12.jpeg
+2025-06-19 13:45:49,373 - DEBUG - Traitement de la forme 2/5
+2025-06-19 13:45:49,375 - DEBUG - Traitement de la forme 3/5
+2025-06-19 13:45:49,379 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,380 - DEBUG - Traitement de la forme 4/5
+2025-06-19 13:45:49,380 - DEBUG - Traitement de la forme 5/5
+2025-06-19 13:45:49,381 - DEBUG - Analyse de 5 formes
+2025-06-19 13:45:49,382 - DEBUG - Traitement de la forme 1/5
+2025-06-19 13:45:49,385 - DEBUG - Nouvelle image détectée, taille : 75.27 KB, nom : image13.jpeg
+2025-06-19 13:45:49,387 - DEBUG - Traitement de la forme 2/5
+2025-06-19 13:45:49,387 - DEBUG - Traitement de la forme 3/5
+2025-06-19 13:45:49,390 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,391 - DEBUG - Traitement de la forme 4/5
+2025-06-19 13:45:49,392 - DEBUG - Traitement de la forme 5/5
+2025-06-19 13:45:49,393 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,394 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,397 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,398 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,398 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,399 - DEBUG - Analyse de 16 formes
+2025-06-19 13:45:49,400 - DEBUG - Traitement de la forme 1/16
+2025-06-19 13:45:49,400 - DEBUG - Traitement de la forme 2/16
+2025-06-19 13:45:49,401 - DEBUG - Traitement de la forme 3/16
+2025-06-19 13:45:49,402 - DEBUG - Traitement de la forme 4/16
+2025-06-19 13:45:49,402 - DEBUG - Traitement de la forme 5/16
+2025-06-19 13:45:49,403 - DEBUG - Traitement de la forme 6/16
+2025-06-19 13:45:49,404 - DEBUG - Traitement de la forme 7/16
+2025-06-19 13:45:49,404 - DEBUG - Traitement de la forme 8/16
+2025-06-19 13:45:49,406 - DEBUG - Traitement de la forme 9/16
+2025-06-19 13:45:49,407 - DEBUG - Traitement de la forme 10/16
+2025-06-19 13:45:49,407 - DEBUG - Traitement de la forme 11/16
+2025-06-19 13:45:49,410 - DEBUG - Traitement de la forme 12/16
+2025-06-19 13:45:49,412 - DEBUG - Traitement de la forme 13/16
+2025-06-19 13:45:49,413 - DEBUG - Traitement de la forme 14/16
+2025-06-19 13:45:49,414 - DEBUG - Traitement de la forme 15/16
+2025-06-19 13:45:49,415 - DEBUG - Traitement de la forme 16/16
+2025-06-19 13:45:49,416 - DEBUG - Analyse de 17 formes
+2025-06-19 13:45:49,417 - DEBUG - Traitement de la forme 1/17
+2025-06-19 13:45:49,418 - DEBUG - Traitement de la forme 2/17
+2025-06-19 13:45:49,418 - DEBUG - Traitement de la forme 3/17
+2025-06-19 13:45:49,419 - DEBUG - Traitement de la forme 4/17
+2025-06-19 13:45:49,419 - DEBUG - Traitement de la forme 5/17
+2025-06-19 13:45:49,420 - DEBUG - Traitement de la forme 6/17
+2025-06-19 13:45:49,421 - DEBUG - Traitement de la forme 7/17
+2025-06-19 13:45:49,422 - DEBUG - Traitement de la forme 8/17
+2025-06-19 13:45:49,422 - DEBUG - Traitement de la forme 9/17
+2025-06-19 13:45:49,423 - DEBUG - Traitement de la forme 10/17
+2025-06-19 13:45:49,424 - DEBUG - Traitement de la forme 11/17
+2025-06-19 13:45:49,426 - DEBUG - Traitement de la forme 12/17
+2025-06-19 13:45:49,426 - DEBUG - Traitement de la forme 13/17
+2025-06-19 13:45:49,427 - DEBUG - Traitement de la forme 14/17
+2025-06-19 13:45:49,429 - DEBUG - Traitement de la forme 15/17
+2025-06-19 13:45:49,430 - DEBUG - Traitement de la forme 16/17
+2025-06-19 13:45:49,431 - DEBUG - Traitement de la forme 17/17
+2025-06-19 13:45:49,432 - DEBUG - Analyse de 27 formes
+2025-06-19 13:45:49,433 - DEBUG - Traitement de la forme 1/27
+2025-06-19 13:45:49,433 - DEBUG - Traitement de la forme 2/27
+2025-06-19 13:45:49,434 - DEBUG - Traitement de la forme 3/27
+2025-06-19 13:45:49,434 - DEBUG - Traitement de la forme 4/27
+2025-06-19 13:45:49,436 - DEBUG - Traitement de la forme 5/27
+2025-06-19 13:45:49,437 - DEBUG - Traitement de la forme 6/27
+2025-06-19 13:45:49,437 - DEBUG - Traitement de la forme 7/27
+2025-06-19 13:45:49,438 - DEBUG - Traitement de la forme 8/27
+2025-06-19 13:45:49,440 - DEBUG - Traitement de la forme 9/27
+2025-06-19 13:45:49,440 - DEBUG - Traitement de la forme 10/27
+2025-06-19 13:45:49,441 - DEBUG - Traitement de la forme 11/27
+2025-06-19 13:45:49,442 - DEBUG - Traitement de la forme 12/27
+2025-06-19 13:45:49,443 - DEBUG - Traitement de la forme 13/27
+2025-06-19 13:45:49,443 - DEBUG - Traitement de la forme 14/27
+2025-06-19 13:45:49,444 - DEBUG - Traitement de la forme 15/27
+2025-06-19 13:45:49,445 - DEBUG - Traitement de la forme 16/27
+2025-06-19 13:45:49,445 - DEBUG - Traitement de la forme 17/27
+2025-06-19 13:45:49,446 - DEBUG - Traitement de la forme 18/27
+2025-06-19 13:45:49,447 - DEBUG - Traitement de la forme 19/27
+2025-06-19 13:45:49,447 - DEBUG - Traitement de la forme 20/27
+2025-06-19 13:45:49,448 - DEBUG - Traitement de la forme 21/27
+2025-06-19 13:45:49,448 - DEBUG - Traitement de la forme 22/27
+2025-06-19 13:45:49,448 - DEBUG - Traitement de la forme 23/27
+2025-06-19 13:45:49,449 - DEBUG - Traitement de la forme 24/27
+2025-06-19 13:45:49,450 - DEBUG - Traitement de la forme 25/27
+2025-06-19 13:45:49,450 - DEBUG - Traitement de la forme 26/27
+2025-06-19 13:45:49,450 - DEBUG - Traitement de la forme 27/27
+2025-06-19 13:45:49,451 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,451 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,455 - DEBUG - Nouvelle image détectée, taille : 561.00 KB, nom : image14.png
+2025-06-19 13:45:49,457 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,459 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,460 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,463 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,464 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,464 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,467 - DEBUG - Nouvelle image détectée, taille : 372.66 KB, nom : image15.png
+2025-06-19 13:45:49,468 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,469 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,469 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,474 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,475 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,475 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,480 - DEBUG - Nouvelle image détectée, taille : 690.74 KB, nom : image16.png
+2025-06-19 13:45:49,482 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,484 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,484 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,487 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,488 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,489 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,496 - DEBUG - Nouvelle image détectée, taille : 566.98 KB, nom : image17.png
+2025-06-19 13:45:49,499 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,502 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,503 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,508 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,510 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,511 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,515 - DEBUG - Nouvelle image détectée, taille : 555.27 KB, nom : image18.png
+2025-06-19 13:45:49,517 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,519 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,520 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,523 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,524 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,525 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,528 - DEBUG - Nouvelle image détectée, taille : 372.67 KB, nom : image19.png
+2025-06-19 13:45:49,529 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,530 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,531 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,534 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,535 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,537 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,541 - DEBUG - Nouvelle image détectée, taille : 362.72 KB, nom : image20.png
+2025-06-19 13:45:49,542 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,543 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,544 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,547 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,547 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,548 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,552 - DEBUG - Nouvelle image détectée, taille : 663.04 KB, nom : image21.png
+2025-06-19 13:45:49,553 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,553 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,554 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,558 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,559 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,560 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,564 - DEBUG - Nouvelle image détectée, taille : 690.54 KB, nom : image22.png
+2025-06-19 13:45:49,565 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,565 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,565 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,569 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,569 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,569 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,574 - DEBUG - Nouvelle image détectée, taille : 371.72 KB, nom : image23.png
+2025-06-19 13:45:49,575 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,575 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,577 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,580 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,581 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,582 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,585 - DEBUG - Nouvelle image détectée, taille : 468.42 KB, nom : image24.png
+2025-06-19 13:45:49,585 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,586 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,587 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,590 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,591 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,593 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,595 - DEBUG - Nouvelle image détectée, taille : 301.40 KB, nom : image25.png
+2025-06-19 13:45:49,596 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,596 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,597 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,602 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,603 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,603 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,607 - DEBUG - Nouvelle image détectée, taille : 305.01 KB, nom : image26.png
+2025-06-19 13:45:49,607 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,608 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,608 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,613 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,613 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,614 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,615 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,615 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,617 - DEBUG - Analyse de 2 formes
+2025-06-19 13:45:49,617 - DEBUG - Traitement de la forme 1/2
+2025-06-19 13:45:49,620 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,621 - DEBUG - Traitement de la forme 2/2
+2025-06-19 13:45:49,622 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,622 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,623 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,627 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,629 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,630 - DEBUG - Analyse de 7 formes
+2025-06-19 13:45:49,631 - DEBUG - Traitement de la forme 1/7
+2025-06-19 13:45:49,636 - DEBUG - Nouvelle image détectée, taille : 111.63 KB, nom : image27.jpeg
+2025-06-19 13:45:49,637 - DEBUG - Traitement de la forme 2/7
+2025-06-19 13:45:49,638 - DEBUG - Traitement de la forme 3/7
+2025-06-19 13:45:49,641 - DEBUG - Nouvelle image détectée, taille : 1.72 KB, nom : image8.png
+2025-06-19 13:45:49,643 - DEBUG - Traitement de la forme 4/7
+2025-06-19 13:45:49,645 - DEBUG - Traitement de la forme 5/7
+2025-06-19 13:45:49,646 - DEBUG - Traitement de la forme 6/7
+2025-06-19 13:45:49,650 - DEBUG - Nouvelle image détectée, taille : 196.88 KB, nom : image28.gif
+2025-06-19 13:45:49,651 - DEBUG - Traitement de la forme 7/7
+2025-06-19 13:45:49,655 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,658 - DEBUG - Analyse de 9 formes
+2025-06-19 13:45:49,661 - DEBUG - Traitement de la forme 1/9
+2025-06-19 13:45:49,662 - DEBUG - Traitement de la forme 2/9
+2025-06-19 13:45:49,663 - DEBUG - Traitement de la forme 3/9
+2025-06-19 13:45:49,664 - DEBUG - Traitement de la forme 4/9
+2025-06-19 13:45:49,665 - DEBUG - Traitement de la forme 5/9
+2025-06-19 13:45:49,666 - DEBUG - Traitement de la forme 6/9
+2025-06-19 13:45:49,667 - DEBUG - Traitement de la forme 7/9
+2025-06-19 13:45:49,670 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 13:45:49,672 - DEBUG - Traitement de la forme 8/9
+2025-06-19 13:45:49,674 - DEBUG - Traitement de la forme 9/9
+2025-06-19 13:45:49,678 - DEBUG - Analyse de 12 formes
+2025-06-19 13:45:49,679 - DEBUG - Traitement de la forme 1/12
+2025-06-19 13:45:49,679 - DEBUG - Traitement de la forme 2/12
+2025-06-19 13:45:49,680 - DEBUG - Traitement de la forme 3/12
+2025-06-19 13:45:49,681 - DEBUG - Traitement de la forme 4/12
+2025-06-19 13:45:49,681 - DEBUG - Traitement de la forme 5/12
+2025-06-19 13:45:49,682 - DEBUG - Traitement de la forme 6/12
+2025-06-19 13:45:49,683 - DEBUG - Traitement de la forme 7/12
+2025-06-19 13:45:49,684 - DEBUG - Traitement de la forme 8/12
+2025-06-19 13:45:49,684 - DEBUG - Traitement de la forme 9/12
+2025-06-19 13:45:49,685 - DEBUG - Traitement de la forme 10/12
+2025-06-19 13:45:49,687 - DEBUG - Traitement de la forme 11/12
+2025-06-19 13:45:49,687 - DEBUG - Traitement de la forme 12/12
+2025-06-19 13:45:49,688 - DEBUG - Analyse de 16 formes
+2025-06-19 13:45:49,688 - DEBUG - Traitement de la forme 1/16
+2025-06-19 13:45:49,690 - DEBUG - Traitement de la forme 2/16
+2025-06-19 13:45:49,690 - DEBUG - Traitement de la forme 3/16
+2025-06-19 13:45:49,691 - DEBUG - Traitement de la forme 4/16
+2025-06-19 13:45:49,691 - DEBUG - Traitement de la forme 5/16
+2025-06-19 13:45:49,693 - DEBUG - Traitement de la forme 6/16
+2025-06-19 13:45:49,693 - DEBUG - Traitement de la forme 7/16
+2025-06-19 13:45:49,694 - DEBUG - Traitement de la forme 8/16
+2025-06-19 13:45:49,695 - DEBUG - Traitement de la forme 9/16
+2025-06-19 13:45:49,695 - DEBUG - Traitement de la forme 10/16
+2025-06-19 13:45:49,697 - DEBUG - Traitement de la forme 11/16
+2025-06-19 13:45:49,698 - DEBUG - Traitement de la forme 12/16
+2025-06-19 13:45:49,698 - DEBUG - Traitement de la forme 13/16
+2025-06-19 13:45:49,699 - DEBUG - Traitement de la forme 14/16
+2025-06-19 13:45:49,700 - DEBUG - Traitement de la forme 15/16
+2025-06-19 13:45:49,706 - DEBUG - Traitement de la forme 16/16
+2025-06-19 13:45:49,711 - DEBUG - Analyse de 15 formes
+2025-06-19 13:45:49,714 - DEBUG - Traitement de la forme 1/15
+2025-06-19 13:45:49,724 - DEBUG - Nouvelle image détectée, taille : 1898.14 KB, nom : image29.gif
+2025-06-19 13:45:49,727 - DEBUG - Traitement de la forme 2/15
+2025-06-19 13:45:49,731 - DEBUG - Traitement de la forme 3/15
+2025-06-19 13:45:49,732 - DEBUG - Traitement de la forme 4/15
+2025-06-19 13:45:49,733 - DEBUG - Traitement de la forme 5/15
+2025-06-19 13:45:49,735 - DEBUG - Traitement de la forme 6/15
+2025-06-19 13:45:49,739 - DEBUG - Traitement de la forme 7/15
+2025-06-19 13:45:49,742 - DEBUG - Traitement de la forme 8/15
+2025-06-19 13:45:49,745 - DEBUG - Traitement de la forme 9/15
+2025-06-19 13:45:49,748 - DEBUG - Traitement de la forme 10/15
+2025-06-19 13:45:49,750 - DEBUG - Traitement de la forme 11/15
+2025-06-19 13:45:49,753 - DEBUG - Traitement de la forme 12/15
+2025-06-19 13:45:49,754 - DEBUG - Traitement de la forme 13/15
+2025-06-19 13:45:49,755 - DEBUG - Traitement de la forme 14/15
+2025-06-19 13:45:49,756 - DEBUG - Traitement de la forme 15/15
+2025-06-19 13:45:49,758 - DEBUG - Analyse de 1 formes
+2025-06-19 13:45:49,759 - DEBUG - Traitement de la forme 1/1
+2025-06-19 13:45:49,760 - DEBUG - Analyse de 16 formes
+2025-06-19 13:45:49,762 - DEBUG - Traitement de la forme 1/16
+2025-06-19 13:45:49,763 - DEBUG - Traitement de la forme 2/16
+2025-06-19 13:45:49,764 - DEBUG - Traitement de la forme 3/16
+2025-06-19 13:45:49,764 - DEBUG - Traitement de la forme 4/16
+2025-06-19 13:45:49,765 - DEBUG - Traitement de la forme 5/16
+2025-06-19 13:45:49,767 - DEBUG - Traitement de la forme 6/16
+2025-06-19 13:45:49,769 - DEBUG - Traitement de la forme 7/16
+2025-06-19 13:45:49,770 - DEBUG - Traitement de la forme 8/16
+2025-06-19 13:45:49,772 - DEBUG - Traitement de la forme 9/16
+2025-06-19 13:45:49,774 - DEBUG - Traitement de la forme 10/16
+2025-06-19 13:45:49,776 - DEBUG - Traitement de la forme 11/16
+2025-06-19 13:45:49,778 - DEBUG - Traitement de la forme 12/16
+2025-06-19 13:45:49,780 - DEBUG - Traitement de la forme 13/16
+2025-06-19 13:45:49,781 - DEBUG - Traitement de la forme 14/16
+2025-06-19 13:45:49,783 - DEBUG - Traitement de la forme 15/16
+2025-06-19 13:45:49,784 - DEBUG - Traitement de la forme 16/16
+2025-06-19 13:45:49,785 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,786 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,787 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,788 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,789 - DEBUG - Analyse de 3 formes
+2025-06-19 13:45:49,790 - DEBUG - Traitement de la forme 1/3
+2025-06-19 13:45:49,791 - DEBUG - Traitement de la forme 2/3
+2025-06-19 13:45:49,792 - DEBUG - Traitement de la forme 3/3
+2025-06-19 13:45:49,794 - DEBUG - Analyse de 0 formes
+2025-06-19 13:45:49,795 - DEBUG - Analyse de 4 formes
+2025-06-19 13:45:49,797 - DEBUG - Traitement de la forme 1/4
+2025-06-19 13:45:49,798 - DEBUG - Traitement de la forme 2/4
+2025-06-19 13:45:49,800 - DEBUG - Traitement de la forme 3/4
+2025-06-19 13:45:49,802 - DEBUG - Traitement de la forme 4/4
+2025-06-19 13:45:49,803 - DEBUG - 
+Analyse des images utilisées :
+2025-06-19 13:45:50,072 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,074 - DEBUG - STREAM b'PLTE' 41 222
+2025-06-19 13:45:50,074 - DEBUG - STREAM b'IDAT' 275 6094
+2025-06-19 13:45:50,076 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,076 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,077 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 13:45:50,077 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 13:45:50,079 - DEBUG - STREAM b'IDAT' 91 52424
+2025-06-19 13:45:50,080 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,080 - DEBUG - STREAM b'iCCP' 41 338
+2025-06-19 13:45:50,081 - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-19 13:45:50,081 - DEBUG - Compression method 0
+2025-06-19 13:45:50,082 - DEBUG - STREAM b'eXIf' 391 86
+2025-06-19 13:45:50,082 - DEBUG - STREAM b'iTXt' 489 471
+2025-06-19 13:45:50,083 - DEBUG - STREAM b'IDAT' 972 16384
+2025-06-19 13:45:50,083 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,084 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,085 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 13:45:50,085 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 13:45:50,085 - DEBUG - STREAM b'tEXt' 91 18
+2025-06-19 13:45:50,085 - DEBUG - STREAM b'IDAT' 121 37086
+2025-06-19 13:45:50,086 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,086 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,086 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 13:45:50,088 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,089 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,089 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 13:45:50,091 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,092 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,092 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 13:45:50,093 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,093 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,093 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 13:45:50,095 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,096 - DEBUG - STREAM b'PLTE' 41 102
+2025-06-19 13:45:50,096 - DEBUG - STREAM b'tRNS' 155 32
+2025-06-19 13:45:50,097 - DEBUG - STREAM b'IDAT' 199 16160
+2025-06-19 13:45:50,097 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,097 - DEBUG - STREAM b'pHYs' 41 9
+2025-06-19 13:45:50,099 - DEBUG - STREAM b'IDAT' 62 8192
+2025-06-19 13:45:50,100 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,101 - DEBUG - STREAM b'pHYs' 41 9
+2025-06-19 13:45:50,101 - DEBUG - STREAM b'IDAT' 62 8192
+2025-06-19 13:45:50,102 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,102 - DEBUG - STREAM b'iTXt' 41 1723
+2025-06-19 13:45:50,103 - DEBUG - STREAM b'pHYs' 1776 9
+2025-06-19 13:45:50,103 - DEBUG - STREAM b'PLTE' 1797 768
+2025-06-19 13:45:50,104 - DEBUG - STREAM b'IDAT' 2577 6878
+2025-06-19 13:45:50,215 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 22 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 13:45:50,217 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 34 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 13:45:50,219 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,219 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,220 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,228 - INFO - Analyse terminée - Images non utilisées : 25, Images rognées : 6.67%
+2025-06-19 13:45:50,232 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,232 - DEBUG - STREAM b'iCCP' 41 1038
+2025-06-19 13:45:50,233 - DEBUG - iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-06-19 13:45:50,235 - DEBUG - Compression method 0
+2025-06-19 13:45:50,236 - DEBUG - STREAM b'eXIf' 1091 56
+2025-06-19 13:45:50,236 - DEBUG - STREAM b'IDAT' 1159 16384
+2025-06-19 13:45:50,238 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,238 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,238 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,239 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,240 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,241 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,243 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,244 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,245 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,247 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,249 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,250 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,251 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,253 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,255 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,256 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,257 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,257 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,261 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,262 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,264 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,265 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,265 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,267 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,269 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,270 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,271 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,271 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,272 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,272 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,273 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,274 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 13:45:50,276 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 13:45:50,277 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 13:45:50,278 - DEBUG - STREAM b'PLTE' 91 84
+2025-06-19 13:45:50,278 - DEBUG - STREAM b'IDAT' 187 8192
+2025-06-19 13:45:50,279 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,280 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,280 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,281 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,282 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,283 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,283 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,284 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,284 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,285 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,285 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,285 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 13:45:50,287 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 13:45:50,287 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 13:45:50,287 - DEBUG - STREAM b'PLTE' 91 81
+2025-06-19 13:45:50,288 - DEBUG - STREAM b'IDAT' 184 8192
+2025-06-19 13:45:50,288 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,289 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,289 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,290 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,290 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,293 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,294 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 13:45:50,295 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 13:45:50,295 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 13:45:50,296 - DEBUG - STREAM b'PLTE' 91 87
+2025-06-19 13:45:50,296 - DEBUG - STREAM b'IDAT' 190 8192
+2025-06-19 13:45:50,297 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,297 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,298 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,298 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,299 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 13:45:50,300 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,300 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,301 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,302 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,302 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,303 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,303 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,304 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,304 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,306 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,307 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,307 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,308 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,309 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,309 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,310 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,310 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,310 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,311 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,311 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,312 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,312 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,313 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,313 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,313 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,314 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,314 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,314 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,315 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,315 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,316 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,316 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,317 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,317 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,317 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,318 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,319 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,319 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,320 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,320 - DEBUG - STREAM b'IDAT' 219 1526
+2025-06-19 13:45:50,339 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,340 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,341 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,341 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,342 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 13:45:50,345 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 13:45:50,347 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,347 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 13:45:50,348 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 13:45:50,348 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 13:45:50,356 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,356 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,359 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,360 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,361 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 13:45:50,367 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:45:50,367 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 13:45:50,368 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 13:45:50,369 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 13:45:50,369 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 13:46:06,269 - INFO - Création de la version allégée pour C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie.pptx
+2025-06-19 13:46:06,276 - DEBUG - Création du répertoire temporaire : C:\Users\dharlet\AppData\Local\Temp\tmpl4d9nmzk
+2025-06-19 13:46:15,002 - DEBUG - Fichier média à supprimer : ppt/media/image2.png
+2025-06-19 13:46:15,003 - DEBUG - Fichier média à supprimer : ppt/media/image4.gif
+2025-06-19 13:46:15,004 - DEBUG - Fichier média à supprimer : ppt/media/image7.jpeg
+2025-06-19 13:46:15,004 - DEBUG - Fichier média à supprimer : ppt/media/image8.png
+2025-06-19 13:46:15,004 - DEBUG - Fichier média à supprimer : ppt/media/image9.jpeg
+2025-06-19 13:46:15,005 - DEBUG - Fichier média à supprimer : ppt/media/image10.jpeg
+2025-06-19 13:46:15,006 - DEBUG - Fichier média à supprimer : ppt/media/image11.jpeg
+2025-06-19 13:46:15,006 - DEBUG - Fichier média à supprimer : ppt/media/image12.jpeg
+2025-06-19 13:46:15,007 - DEBUG - Fichier média à supprimer : ppt/media/image13.jpeg
+2025-06-19 13:46:15,008 - DEBUG - Fichier média à supprimer : ppt/media/image14.png
+2025-06-19 13:46:15,008 - DEBUG - Fichier média à supprimer : ppt/media/image15.png
+2025-06-19 13:46:15,009 - DEBUG - Fichier média à supprimer : ppt/media/image16.png
+2025-06-19 13:46:15,009 - DEBUG - Fichier média à supprimer : ppt/media/image17.png
+2025-06-19 13:46:15,010 - DEBUG - Fichier média à supprimer : ppt/media/image18.png
+2025-06-19 13:46:15,010 - DEBUG - Fichier média à supprimer : ppt/media/image19.png
+2025-06-19 13:46:15,010 - DEBUG - Fichier média à supprimer : ppt/media/image20.png
+2025-06-19 13:46:15,010 - DEBUG - Fichier média à supprimer : ppt/media/image21.png
+2025-06-19 13:46:15,011 - DEBUG - Fichier média à supprimer : ppt/media/image22.png
+2025-06-19 13:46:15,011 - DEBUG - Fichier média à supprimer : ppt/media/image23.png
+2025-06-19 13:46:15,011 - DEBUG - Fichier média à supprimer : ppt/media/image24.png
+2025-06-19 13:46:15,012 - DEBUG - Fichier média à supprimer : ppt/media/image25.png
+2025-06-19 13:46:15,012 - DEBUG - Fichier média à supprimer : ppt/media/image26.png
+2025-06-19 13:46:15,013 - DEBUG - Fichier média à supprimer : ppt/media/image27.jpeg
+2025-06-19 13:46:15,013 - DEBUG - Fichier média à supprimer : ppt/media/image28.gif
+2025-06-19 13:46:15,014 - DEBUG - Fichier média à supprimer : ppt/media/image29.gif
+2025-06-19 13:46:15,016 - DEBUG - Suppression du fichier : ppt/media/image2.png
+2025-06-19 13:46:15,017 - DEBUG - Suppression du fichier : ppt/media/image4.gif
+2025-06-19 13:46:15,018 - DEBUG - Suppression du fichier : ppt/media/image7.jpeg
+2025-06-19 13:46:15,020 - DEBUG - Suppression du fichier : ppt/media/image8.png
+2025-06-19 13:46:15,021 - DEBUG - Suppression du fichier : ppt/media/image9.jpeg
+2025-06-19 13:46:15,023 - DEBUG - Suppression du fichier : ppt/media/image10.jpeg
+2025-06-19 13:46:15,026 - DEBUG - Suppression du fichier : ppt/media/image11.jpeg
+2025-06-19 13:46:15,028 - DEBUG - Suppression du fichier : ppt/media/image12.jpeg
+2025-06-19 13:46:15,030 - DEBUG - Suppression du fichier : ppt/media/image13.jpeg
+2025-06-19 13:46:15,033 - DEBUG - Suppression du fichier : ppt/media/image14.png
+2025-06-19 13:46:15,037 - DEBUG - Suppression du fichier : ppt/media/image15.png
+2025-06-19 13:46:15,039 - DEBUG - Suppression du fichier : ppt/media/image16.png
+2025-06-19 13:46:15,041 - DEBUG - Suppression du fichier : ppt/media/image17.png
+2025-06-19 13:46:15,044 - DEBUG - Suppression du fichier : ppt/media/image18.png
+2025-06-19 13:46:15,045 - DEBUG - Suppression du fichier : ppt/media/image19.png
+2025-06-19 13:46:15,047 - DEBUG - Suppression du fichier : ppt/media/image20.png
+2025-06-19 13:46:15,050 - DEBUG - Suppression du fichier : ppt/media/image21.png
+2025-06-19 13:46:15,051 - DEBUG - Suppression du fichier : ppt/media/image22.png
+2025-06-19 13:46:15,054 - DEBUG - Suppression du fichier : ppt/media/image23.png
+2025-06-19 13:46:15,056 - DEBUG - Suppression du fichier : ppt/media/image24.png
+2025-06-19 13:46:15,057 - DEBUG - Suppression du fichier : ppt/media/image25.png
+2025-06-19 13:46:15,060 - DEBUG - Suppression du fichier : ppt/media/image26.png
+2025-06-19 13:46:15,061 - DEBUG - Suppression du fichier : ppt/media/image27.jpeg
+2025-06-19 13:46:15,063 - DEBUG - Suppression du fichier : ppt/media/image28.gif
+2025-06-19 13:46:15,066 - DEBUG - Suppression du fichier : ppt/media/image29.gif
+2025-06-19 13:46:15,070 - DEBUG - Ajout du fichier dans l'archive : [Content_Types].xml
+2025-06-19 13:46:15,072 - DEBUG - Ajout du fichier dans l'archive : customXml\item1.xml
+2025-06-19 13:46:15,076 - DEBUG - Ajout du fichier dans l'archive : customXml\item2.xml
+2025-06-19 13:46:15,077 - DEBUG - Ajout du fichier dans l'archive : customXml\item3.xml
+2025-06-19 13:46:15,081 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps1.xml
+2025-06-19 13:46:15,082 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps2.xml
+2025-06-19 13:46:15,083 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps3.xml
+2025-06-19 13:46:15,084 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item1.xml.rels
+2025-06-19 13:46:15,086 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item2.xml.rels
+2025-06-19 13:46:15,089 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item3.xml.rels
+2025-06-19 13:46:15,091 - DEBUG - Ajout du fichier dans l'archive : docProps\app.xml
+2025-06-19 13:46:15,094 - DEBUG - Ajout du fichier dans l'archive : docProps\core.xml
+2025-06-19 13:46:15,097 - DEBUG - Ajout du fichier dans l'archive : docProps\custom.xml
+2025-06-19 13:46:15,101 - DEBUG - Ajout du fichier dans l'archive : ppt\authors.xml
+2025-06-19 13:46:15,102 - DEBUG - Ajout du fichier dans l'archive : ppt\presentation.xml
+2025-06-19 13:46:15,104 - DEBUG - Ajout du fichier dans l'archive : ppt\presProps.xml
+2025-06-19 13:46:15,105 - DEBUG - Ajout du fichier dans l'archive : ppt\tableStyles.xml
+2025-06-19 13:46:15,107 - DEBUG - Ajout du fichier dans l'archive : ppt\viewProps.xml
+2025-06-19 13:46:15,113 - DEBUG - Ajout du fichier dans l'archive : ppt\changesInfos\changesInfo1.xml
+2025-06-19 13:46:15,116 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font1.fntdata
+2025-06-19 13:46:15,119 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font2.fntdata
+2025-06-19 13:46:15,121 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font3.fntdata
+2025-06-19 13:46:15,124 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font4.fntdata
+2025-06-19 13:46:15,130 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image1.gif
+2025-06-19 13:46:15,131 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image3.png
+2025-06-19 13:46:15,133 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image30.png
+2025-06-19 13:46:15,138 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image31.png
+2025-06-19 13:46:15,146 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image32.png
+2025-06-19 13:46:15,149 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image33.png
+2025-06-19 13:46:15,171 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image34.png
+2025-06-19 13:46:15,185 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image35.png
+2025-06-19 13:46:15,188 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image36.jpeg
+2025-06-19 13:46:15,194 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image37.png
+2025-06-19 13:46:15,220 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image38.png
+2025-06-19 13:46:15,223 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image39.png
+2025-06-19 13:46:15,245 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image40.png
+2025-06-19 13:46:15,248 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image41.png
+2025-06-19 13:46:15,250 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image42.png
+2025-06-19 13:46:15,800 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image43.jpeg
+2025-06-19 13:46:15,862 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image44.gif
+2025-06-19 13:46:15,870 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image5.jpeg
+2025-06-19 13:46:15,920 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image6.gif
+2025-06-19 13:46:15,923 - DEBUG - Ajout du fichier dans l'archive : ppt\notesMasters\notesMaster1.xml
+2025-06-19 13:46:15,927 - DEBUG - Ajout du fichier dans l'archive : ppt\notesMasters\_rels\notesMaster1.xml.rels
+2025-06-19 13:46:15,929 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide1.xml
+2025-06-19 13:46:15,932 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide10.xml
+2025-06-19 13:46:15,933 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide11.xml
+2025-06-19 13:46:15,936 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide12.xml
+2025-06-19 13:46:15,938 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide13.xml
+2025-06-19 13:46:15,941 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide14.xml
+2025-06-19 13:46:15,945 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide15.xml
+2025-06-19 13:46:15,947 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide16.xml
+2025-06-19 13:46:15,950 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide2.xml
+2025-06-19 13:46:15,953 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide3.xml
+2025-06-19 13:46:15,955 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide4.xml
+2025-06-19 13:46:15,957 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide5.xml
+2025-06-19 13:46:15,960 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide6.xml
+2025-06-19 13:46:15,963 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide7.xml
+2025-06-19 13:46:15,965 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide8.xml
+2025-06-19 13:46:15,967 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide9.xml
+2025-06-19 13:46:15,968 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide1.xml.rels
+2025-06-19 13:46:15,970 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide10.xml.rels
+2025-06-19 13:46:15,971 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide11.xml.rels
+2025-06-19 13:46:15,974 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide12.xml.rels
+2025-06-19 13:46:15,975 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide13.xml.rels
+2025-06-19 13:46:15,978 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide14.xml.rels
+2025-06-19 13:46:15,979 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide15.xml.rels
+2025-06-19 13:46:15,982 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide16.xml.rels
+2025-06-19 13:46:15,983 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide2.xml.rels
+2025-06-19 13:46:15,986 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide3.xml.rels
+2025-06-19 13:46:15,988 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide4.xml.rels
+2025-06-19 13:46:15,989 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide5.xml.rels
+2025-06-19 13:46:15,993 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide6.xml.rels
+2025-06-19 13:46:15,995 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide7.xml.rels
+2025-06-19 13:46:15,996 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide8.xml.rels
+2025-06-19 13:46:15,998 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide9.xml.rels
+2025-06-19 13:46:16,001 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout1.xml
+2025-06-19 13:46:16,002 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout10.xml
+2025-06-19 13:46:16,004 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout11.xml
+2025-06-19 13:46:16,006 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout12.xml
+2025-06-19 13:46:16,008 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout13.xml
+2025-06-19 13:46:16,012 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout14.xml
+2025-06-19 13:46:16,014 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout15.xml
+2025-06-19 13:46:16,017 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout16.xml
+2025-06-19 13:46:16,018 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout17.xml
+2025-06-19 13:46:16,021 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout18.xml
+2025-06-19 13:46:16,023 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout19.xml
+2025-06-19 13:46:16,027 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout2.xml
+2025-06-19 13:46:16,030 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout20.xml
+2025-06-19 13:46:16,031 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout21.xml
+2025-06-19 13:46:16,033 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout22.xml
+2025-06-19 13:46:16,036 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout23.xml
+2025-06-19 13:46:16,038 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout24.xml
+2025-06-19 13:46:16,040 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout25.xml
+2025-06-19 13:46:16,045 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout26.xml
+2025-06-19 13:46:16,049 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout27.xml
+2025-06-19 13:46:16,051 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout28.xml
+2025-06-19 13:46:16,053 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout29.xml
+2025-06-19 13:46:16,054 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout3.xml
+2025-06-19 13:46:16,057 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout30.xml
+2025-06-19 13:46:16,061 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout31.xml
+2025-06-19 13:46:16,063 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout32.xml
+2025-06-19 13:46:16,065 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout33.xml
+2025-06-19 13:46:16,068 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout34.xml
+2025-06-19 13:46:16,071 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout35.xml
+2025-06-19 13:46:16,074 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout36.xml
+2025-06-19 13:46:16,076 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout37.xml
+2025-06-19 13:46:16,079 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout38.xml
+2025-06-19 13:46:16,082 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout39.xml
+2025-06-19 13:46:16,085 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout4.xml
+2025-06-19 13:46:16,086 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout40.xml
+2025-06-19 13:46:16,089 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout41.xml
+2025-06-19 13:46:16,091 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout42.xml
+2025-06-19 13:46:16,093 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout43.xml
+2025-06-19 13:46:16,095 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout44.xml
+2025-06-19 13:46:16,096 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout45.xml
+2025-06-19 13:46:16,098 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout46.xml
+2025-06-19 13:46:16,100 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout5.xml
+2025-06-19 13:46:16,102 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout6.xml
+2025-06-19 13:46:16,105 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout7.xml
+2025-06-19 13:46:16,111 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout8.xml
+2025-06-19 13:46:16,112 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout9.xml
+2025-06-19 13:46:16,116 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout1.xml.rels
+2025-06-19 13:46:16,117 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout10.xml.rels
+2025-06-19 13:46:16,119 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout11.xml.rels
+2025-06-19 13:46:16,122 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout12.xml.rels
+2025-06-19 13:46:16,124 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout13.xml.rels
+2025-06-19 13:46:16,127 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout14.xml.rels
+2025-06-19 13:46:16,129 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout15.xml.rels
+2025-06-19 13:46:16,131 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout16.xml.rels
+2025-06-19 13:46:16,133 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout17.xml.rels
+2025-06-19 13:46:16,136 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout18.xml.rels
+2025-06-19 13:46:16,140 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout19.xml.rels
+2025-06-19 13:46:16,142 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout2.xml.rels
+2025-06-19 13:46:16,145 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout20.xml.rels
+2025-06-19 13:46:16,148 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout21.xml.rels
+2025-06-19 13:46:16,151 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout22.xml.rels
+2025-06-19 13:46:16,153 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout23.xml.rels
+2025-06-19 13:46:16,154 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout24.xml.rels
+2025-06-19 13:46:16,157 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout25.xml.rels
+2025-06-19 13:46:16,160 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout26.xml.rels
+2025-06-19 13:46:16,163 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout27.xml.rels
+2025-06-19 13:46:16,166 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout28.xml.rels
+2025-06-19 13:46:16,169 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout29.xml.rels
+2025-06-19 13:46:16,172 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout3.xml.rels
+2025-06-19 13:46:16,174 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout30.xml.rels
+2025-06-19 13:46:16,178 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout31.xml.rels
+2025-06-19 13:46:16,180 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout32.xml.rels
+2025-06-19 13:46:16,182 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout33.xml.rels
+2025-06-19 13:46:16,184 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout34.xml.rels
+2025-06-19 13:46:16,186 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout35.xml.rels
+2025-06-19 13:46:16,188 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout36.xml.rels
+2025-06-19 13:46:16,189 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout37.xml.rels
+2025-06-19 13:46:16,191 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout38.xml.rels
+2025-06-19 13:46:16,194 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout39.xml.rels
+2025-06-19 13:46:16,197 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout4.xml.rels
+2025-06-19 13:46:16,200 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout40.xml.rels
+2025-06-19 13:46:16,203 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout41.xml.rels
+2025-06-19 13:46:16,206 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout42.xml.rels
+2025-06-19 13:46:16,209 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout43.xml.rels
+2025-06-19 13:46:16,213 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout44.xml.rels
+2025-06-19 13:46:16,217 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout45.xml.rels
+2025-06-19 13:46:16,221 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout46.xml.rels
+2025-06-19 13:46:16,223 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout5.xml.rels
+2025-06-19 13:46:16,226 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout6.xml.rels
+2025-06-19 13:46:16,230 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout7.xml.rels
+2025-06-19 13:46:16,234 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout8.xml.rels
+2025-06-19 13:46:16,239 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout9.xml.rels
+2025-06-19 13:46:16,243 - DEBUG - Ajout du fichier dans l'archive : ppt\slideMasters\slideMaster1.xml
+2025-06-19 13:46:16,247 - DEBUG - Ajout du fichier dans l'archive : ppt\slideMasters\_rels\slideMaster1.xml.rels
+2025-06-19 13:46:16,250 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide1.xml
+2025-06-19 13:46:16,252 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide10.xml
+2025-06-19 13:46:16,256 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide11.xml
+2025-06-19 13:46:16,260 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide12.xml
+2025-06-19 13:46:16,263 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide13.xml
+2025-06-19 13:46:16,265 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide14.xml
+2025-06-19 13:46:16,267 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide15.xml
+2025-06-19 13:46:16,270 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide16.xml
+2025-06-19 13:46:16,271 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide17.xml
+2025-06-19 13:46:16,273 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide18.xml
+2025-06-19 13:46:16,277 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide19.xml
+2025-06-19 13:46:16,280 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide2.xml
+2025-06-19 13:46:16,283 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide20.xml
+2025-06-19 13:46:16,285 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide21.xml
+2025-06-19 13:46:16,287 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide22.xml
+2025-06-19 13:46:16,289 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide23.xml
+2025-06-19 13:46:16,291 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide24.xml
+2025-06-19 13:46:16,293 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide25.xml
+2025-06-19 13:46:16,297 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide26.xml
+2025-06-19 13:46:16,299 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide27.xml
+2025-06-19 13:46:16,302 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide28.xml
+2025-06-19 13:46:16,303 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide3.xml
+2025-06-19 13:46:16,306 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide4.xml
+2025-06-19 13:46:16,312 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide5.xml
+2025-06-19 13:46:16,313 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide6.xml
+2025-06-19 13:46:16,316 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide7.xml
+2025-06-19 13:46:16,318 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide8.xml
+2025-06-19 13:46:16,320 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide9.xml
+2025-06-19 13:46:16,322 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide1.xml.rels
+2025-06-19 13:46:16,328 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide10.xml.rels
+2025-06-19 13:46:16,334 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide11.xml.rels
+2025-06-19 13:46:16,337 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide12.xml.rels
+2025-06-19 13:46:16,339 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide13.xml.rels
+2025-06-19 13:46:16,347 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide14.xml.rels
+2025-06-19 13:46:16,351 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide15.xml.rels
+2025-06-19 13:46:16,354 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide16.xml.rels
+2025-06-19 13:46:16,359 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide17.xml.rels
+2025-06-19 13:46:16,363 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide18.xml.rels
+2025-06-19 13:46:16,364 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide19.xml.rels
+2025-06-19 13:46:16,367 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide2.xml.rels
+2025-06-19 13:46:16,370 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide20.xml.rels
+2025-06-19 13:46:16,374 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide21.xml.rels
+2025-06-19 13:46:16,380 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide22.xml.rels
+2025-06-19 13:46:16,382 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide23.xml.rels
+2025-06-19 13:46:16,385 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide24.xml.rels
+2025-06-19 13:46:16,387 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide25.xml.rels
+2025-06-19 13:46:16,391 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide26.xml.rels
+2025-06-19 13:46:16,393 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide27.xml.rels
+2025-06-19 13:46:16,394 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide28.xml.rels
+2025-06-19 13:46:16,396 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide3.xml.rels
+2025-06-19 13:46:16,398 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide4.xml.rels
+2025-06-19 13:46:16,400 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide5.xml.rels
+2025-06-19 13:46:16,401 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide6.xml.rels
+2025-06-19 13:46:16,403 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide7.xml.rels
+2025-06-19 13:46:16,407 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide8.xml.rels
+2025-06-19 13:46:16,411 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide9.xml.rels
+2025-06-19 13:46:16,413 - DEBUG - Ajout du fichier dans l'archive : ppt\theme\theme1.xml
+2025-06-19 13:46:16,415 - DEBUG - Ajout du fichier dans l'archive : ppt\theme\theme2.xml
+2025-06-19 13:46:16,418 - DEBUG - Ajout du fichier dans l'archive : ppt\_rels\presentation.xml.rels
+2025-06-19 13:46:16,427 - DEBUG - Ajout du fichier dans l'archive : _rels\.rels
+2025-06-19 13:46:16,670 - INFO - Version allégée créée avec succès : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie_light.pptx
+2025-06-19 13:47:20,136 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 13:47:20,137 - DEBUG - STREAM b'iCCP' 41 338
+2025-06-19 13:47:20,138 - DEBUG - iCCP profile name b'ICC Profile'
+2025-06-19 13:47:20,139 - DEBUG - Compression method 0
+2025-06-19 13:47:20,140 - DEBUG - STREAM b'eXIf' 391 86
+2025-06-19 13:47:20,141 - DEBUG - STREAM b'iTXt' 489 471
+2025-06-19 13:47:20,142 - DEBUG - STREAM b'IDAT' 972 16384
+2025-06-19 18:06:25,237 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 22 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 18:06:25,262 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 34 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 18:06:25,264 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 18:06:25,264 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2025-06-19 18:06:25,265 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 18:06:38,170 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 22 - Data Location: 74 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 18:06:38,170 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 34 - Data Location: 82 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2025-06-19 18:06:38,171 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 18:06:38,172 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2025-06-19 18:06:38,173 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:53,975 - INFO - Tentative d'analyse du fichier : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie-compressed.pptx
+2025-06-19 22:31:53,975 - INFO - Fichier valide détecté : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie-compressed.pptx
+2025-06-19 22:31:53,985 - INFO - Début de l'analyse du fichier : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie-compressed.pptx
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide28.xml.rels: ../slideLayouts/slideLayout38.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide27.xml.rels: ../slideLayouts/slideLayout35.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide26.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide25.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide24.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide23.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide22.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide21.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide20.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide19.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide18.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide17.xml.rels: ../slideLayouts/slideLayout42.xml
+2025-06-19 22:31:54,181 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide16.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,197 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide15.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,197 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide13.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,199 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide12.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,199 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide11.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,199 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide10.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,201 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide9.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide8.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide14.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide6.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide5.xml.rels: ../slideLayouts/slideLayout2.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide4.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,203 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide3.xml.rels: ../slideLayouts/slideLayout7.xml
+2025-06-19 22:31:54,208 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide2.xml.rels: ../slideLayouts/slideLayout5.xml
+2025-06-19 22:31:54,208 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide1.xml.rels: ../slideLayouts/slideLayout10.xml
+2025-06-19 22:31:54,208 - DEBUG - Layout utilisé détecté dans ppt/slides/_rels/slide7.xml.rels: ../slideLayouts/slideLayout1.xml
+2025-06-19 22:31:54,208 - INFO - Layouts utilisés détectés : ['1', '10', '2', '35', '38', '42', '5', '7']
+2025-06-19 22:31:54,208 - INFO - Layouts utilisés détectés : ['1', '10', '2', '35', '38', '42', '5', '7']
+2025-06-19 22:31:54,213 - DEBUG - Image image1.gif trouvée dans le layout 5 via ppt/slideLayouts/_rels/slideLayout5.xml.rels
+2025-06-19 22:31:54,214 - DEBUG - Image image3.png trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 22:31:54,214 - DEBUG - Image image5.jpeg trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 22:31:54,214 - DEBUG - Image image6.gif trouvée dans le layout 10 via ppt/slideLayouts/_rels/slideLayout10.xml.rels
+2025-06-19 22:31:54,217 - DEBUG - Image image3.png trouvée dans le layout 35 via ppt/slideLayouts/_rels/slideLayout35.xml.rels
+2025-06-19 22:31:54,217 - DEBUG - Image image3.png trouvée dans le layout 38 via ppt/slideLayouts/_rels/slideLayout38.xml.rels
+2025-06-19 22:31:54,219 - INFO - Images du layout 5 : ['image1.gif']
+2025-06-19 22:31:54,219 - INFO - Images du layout 10 : ['image3.png', 'image5.jpeg', 'image6.gif']
+2025-06-19 22:31:54,219 - INFO - Images du layout 35 : ['image3.png']
+2025-06-19 22:31:54,219 - INFO - Images du layout 38 : ['image3.png']
+2025-06-19 22:31:54,219 - INFO - Total des images utilisées dans les layouts : 4
+2025-06-19 22:31:54,219 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,229 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,229 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,229 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,229 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,229 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,239 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,239 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,239 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,239 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,241 - DEBUG - Nouvelle image détectée, taille : 6.24 KB, nom : image30.png
+2025-06-19 22:31:54,245 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,245 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,245 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,245 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,256 - DEBUG - Analyse de 40 formes
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 1/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 2/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 3/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 4/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 5/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 6/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 7/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 8/40
+2025-06-19 22:31:54,256 - DEBUG - Traitement de la forme 9/40
+2025-06-19 22:31:54,261 - DEBUG - Traitement de la forme 10/40
+2025-06-19 22:31:54,261 - DEBUG - Traitement de la forme 11/40
+2025-06-19 22:31:54,261 - DEBUG - Traitement de la forme 12/40
+2025-06-19 22:31:54,261 - DEBUG - Traitement de la forme 13/40
+2025-06-19 22:31:54,264 - DEBUG - Traitement de la forme 14/40
+2025-06-19 22:31:54,264 - DEBUG - Traitement de la forme 15/40
+2025-06-19 22:31:54,264 - DEBUG - Traitement de la forme 16/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 17/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 18/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 19/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 20/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 21/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 22/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 23/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 24/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 25/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 26/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 27/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 28/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 29/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 30/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 31/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 32/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 33/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 34/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 35/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 36/40
+2025-06-19 22:31:54,266 - DEBUG - Traitement de la forme 37/40
+2025-06-19 22:31:54,277 - DEBUG - Traitement de la forme 38/40
+2025-06-19 22:31:54,277 - DEBUG - Traitement de la forme 39/40
+2025-06-19 22:31:54,279 - DEBUG - Traitement de la forme 40/40
+2025-06-19 22:31:54,279 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,281 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,281 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,281 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,281 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,289 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,289 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,289 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,289 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,289 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,292 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,292 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,292 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,292 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,296 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,296 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,300 - DEBUG - Nouvelle image détectée, taille : 51.30 KB, nom : image31.png
+2025-06-19 22:31:54,303 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,303 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,303 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,308 - DEBUG - Nouvelle image détectée, taille : 38.95 KB, nom : image32.png
+2025-06-19 22:31:54,308 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,308 - DEBUG - Nouvelle image détectée, taille : 36.35 KB, nom : image33.png
+2025-06-19 22:31:54,308 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,308 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,308 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,308 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,324 - DEBUG - Nouvelle image détectée, taille : 315.47 KB, nom : image34.png
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,324 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,324 - DEBUG - Nouvelle image détectée, taille : 145.22 KB, nom : image35.png
+2025-06-19 22:31:54,324 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,324 - DEBUG - Nouvelle image détectée, taille : 43.24 KB, nom : image36.jpeg
+2025-06-19 22:31:54,324 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,340 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,340 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,340 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,340 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,340 - DEBUG - Nouvelle image détectée, taille : 70.25 KB, nom : image37.png
+2025-06-19 22:31:54,352 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,352 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,352 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,352 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,356 - DEBUG - Nouvelle image détectée, taille : 310.35 KB, nom : image38.png
+2025-06-19 22:31:54,356 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,356 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,356 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,356 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,365 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,365 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,365 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,365 - DEBUG - Nouvelle image détectée, taille : 15.99 KB, nom : image39.png
+2025-06-19 22:31:54,372 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,372 - DEBUG - Nouvelle image détectée, taille : 119.08 KB, nom : image40.png
+2025-06-19 22:31:54,372 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,372 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,384 - DEBUG - Nouvelle image détectée, taille : 9.85 KB, nom : image41.png
+2025-06-19 22:31:54,388 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,388 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,388 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,388 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,388 - DEBUG - Nouvelle image détectée, taille : 9.25 KB, nom : image42.png
+2025-06-19 22:31:54,388 - DEBUG - Analyse de 1 formes
+2025-06-19 22:31:54,388 - DEBUG - Traitement de la forme 1/1
+2025-06-19 22:31:54,406 - DEBUG - Nouvelle image détectée, taille : 483.45 KB, nom : image43.jpeg
+2025-06-19 22:31:54,406 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,406 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,412 - DEBUG - Nouvelle image détectée, taille : 724.53 KB, nom : image44.gif
+2025-06-19 22:31:54,412 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,412 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,412 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,419 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,419 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,419 - DEBUG - Analyse de 7 formes
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 1/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 2/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 3/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 4/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 5/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 6/7
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 7/7
+2025-06-19 22:31:54,419 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,419 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,419 - DEBUG - Nouvelle image détectée, taille : 43.28 KB, nom : image1.gif
+2025-06-19 22:31:54,419 - DEBUG - Image rognée détectée - Crop values: L=0.0, T=0.20854, R=0.0, B=0.0
+2025-06-19 22:31:54,419 - DEBUG - Image rognée - Nom: image1.gif, Taille: 43.28 KB, Ratio de rognage: 5.2%, Slide: N/A, Dimensions d'affichage: 9.53x7.55 cm
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,419 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,419 - DEBUG - Image rognée détectée - Crop values: L=0.0, T=0.20854, R=0.0, B=0.0
+2025-06-19 22:31:54,435 - DEBUG - Image rognée - Nom: image1.gif, Taille: 43.28 KB, Ratio de rognage: 5.2%, Slide: N/A, Dimensions d'affichage: 9.53x7.55 cm
+2025-06-19 22:31:54,435 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,435 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,435 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,435 - DEBUG - Analyse de 5 formes
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 1/5
+2025-06-19 22:31:54,435 - DEBUG - Nouvelle image détectée, taille : 899.97 KB, nom : image2.png
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 2/5
+2025-06-19 22:31:54,435 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,435 - DEBUG - Traitement de la forme 3/5
+2025-06-19 22:31:54,451 - DEBUG - Traitement de la forme 4/5
+2025-06-19 22:31:54,451 - DEBUG - Traitement de la forme 5/5
+2025-06-19 22:31:54,451 - DEBUG - Nouvelle image détectée, taille : 324.35 KB, nom : image4.gif
+2025-06-19 22:31:54,451 - DEBUG - Analyse de 6 formes
+2025-06-19 22:31:54,451 - DEBUG - Traitement de la forme 1/6
+2025-06-19 22:31:54,459 - DEBUG - Nouvelle image détectée, taille : 70.79 KB, nom : image5.jpeg
+2025-06-19 22:31:54,459 - DEBUG - Traitement de la forme 2/6
+2025-06-19 22:31:54,459 - DEBUG - Traitement de la forme 3/6
+2025-06-19 22:31:54,459 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,459 - DEBUG - Traitement de la forme 4/6
+2025-06-19 22:31:54,459 - DEBUG - Traitement de la forme 5/6
+2025-06-19 22:31:54,467 - DEBUG - Traitement de la forme 6/6
+2025-06-19 22:31:54,471 - DEBUG - Nouvelle image détectée, taille : 643.41 KB, nom : image6.gif
+2025-06-19 22:31:54,471 - DEBUG - Analyse de 6 formes
+2025-06-19 22:31:54,471 - DEBUG - Traitement de la forme 1/6
+2025-06-19 22:31:54,471 - DEBUG - Nouvelle image détectée, taille : 110.10 KB, nom : image7.jpeg
+2025-06-19 22:31:54,478 - DEBUG - Traitement de la forme 2/6
+2025-06-19 22:31:54,478 - DEBUG - Traitement de la forme 3/6
+2025-06-19 22:31:54,478 - DEBUG - Traitement de la forme 4/6
+2025-06-19 22:31:54,482 - DEBUG - Nouvelle image détectée, taille : 1.72 KB, nom : image8.png
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 5/6
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 6/6
+2025-06-19 22:31:54,482 - DEBUG - Nouvelle image détectée, taille : 324.35 KB, nom : image4.gif
+2025-06-19 22:31:54,482 - DEBUG - Analyse de 5 formes
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 1/5
+2025-06-19 22:31:54,482 - DEBUG - Nouvelle image détectée, taille : 117.10 KB, nom : image9.jpeg
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 2/5
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 3/5
+2025-06-19 22:31:54,482 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,482 - DEBUG - Traitement de la forme 4/5
+2025-06-19 22:31:54,498 - DEBUG - Traitement de la forme 5/5
+2025-06-19 22:31:54,498 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,498 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,498 - DEBUG - Nouvelle image détectée, taille : 82.09 KB, nom : image10.jpeg
+2025-06-19 22:31:54,504 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,504 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,504 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,504 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,504 - DEBUG - Analyse de 5 formes
+2025-06-19 22:31:54,504 - DEBUG - Traitement de la forme 1/5
+2025-06-19 22:31:54,504 - DEBUG - Nouvelle image détectée, taille : 172.87 KB, nom : image11.jpeg
+2025-06-19 22:31:54,504 - DEBUG - Traitement de la forme 2/5
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 3/5
+2025-06-19 22:31:54,514 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 4/5
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 5/5
+2025-06-19 22:31:54,514 - DEBUG - Analyse de 5 formes
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 1/5
+2025-06-19 22:31:54,514 - DEBUG - Nouvelle image détectée, taille : 85.19 KB, nom : image12.jpeg
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 2/5
+2025-06-19 22:31:54,514 - DEBUG - Traitement de la forme 3/5
+2025-06-19 22:31:54,526 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,526 - DEBUG - Traitement de la forme 4/5
+2025-06-19 22:31:54,530 - DEBUG - Traitement de la forme 5/5
+2025-06-19 22:31:54,530 - DEBUG - Analyse de 5 formes
+2025-06-19 22:31:54,530 - DEBUG - Traitement de la forme 1/5
+2025-06-19 22:31:54,537 - DEBUG - Nouvelle image détectée, taille : 75.27 KB, nom : image13.jpeg
+2025-06-19 22:31:54,537 - DEBUG - Traitement de la forme 2/5
+2025-06-19 22:31:54,537 - DEBUG - Traitement de la forme 3/5
+2025-06-19 22:31:54,546 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,548 - DEBUG - Traitement de la forme 4/5
+2025-06-19 22:31:54,548 - DEBUG - Traitement de la forme 5/5
+2025-06-19 22:31:54,548 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,548 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,555 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,555 - DEBUG - Analyse de 16 formes
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 1/16
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 2/16
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 3/16
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 4/16
+2025-06-19 22:31:54,555 - DEBUG - Traitement de la forme 5/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 6/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 7/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 8/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 9/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 10/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 11/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 12/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 13/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 14/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 15/16
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 16/16
+2025-06-19 22:31:54,562 - DEBUG - Analyse de 17 formes
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 1/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 2/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 3/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 4/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 5/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 6/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 7/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 8/17
+2025-06-19 22:31:54,562 - DEBUG - Traitement de la forme 9/17
+2025-06-19 22:31:54,578 - DEBUG - Traitement de la forme 10/17
+2025-06-19 22:31:54,578 - DEBUG - Traitement de la forme 11/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 12/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 13/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 14/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 15/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 16/17
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 17/17
+2025-06-19 22:31:54,580 - DEBUG - Analyse de 27 formes
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 1/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 2/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 3/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 4/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 5/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 6/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 7/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 8/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 9/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 10/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 11/27
+2025-06-19 22:31:54,580 - DEBUG - Traitement de la forme 12/27
+2025-06-19 22:31:54,594 - DEBUG - Traitement de la forme 13/27
+2025-06-19 22:31:54,594 - DEBUG - Traitement de la forme 14/27
+2025-06-19 22:31:54,594 - DEBUG - Traitement de la forme 15/27
+2025-06-19 22:31:54,596 - DEBUG - Traitement de la forme 16/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 17/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 18/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 19/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 20/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 21/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 22/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 23/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 24/27
+2025-06-19 22:31:54,598 - DEBUG - Traitement de la forme 25/27
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 26/27
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 27/27
+2025-06-19 22:31:54,604 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,604 - DEBUG - Nouvelle image détectée, taille : 561.00 KB, nom : image14.png
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,604 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,610 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,610 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,610 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,610 - DEBUG - Nouvelle image détectée, taille : 372.66 KB, nom : image15.png
+2025-06-19 22:31:54,610 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,610 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,610 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,610 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,610 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,610 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,622 - DEBUG - Nouvelle image détectée, taille : 690.74 KB, nom : image16.png
+2025-06-19 22:31:54,622 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,624 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,624 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,625 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,629 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,629 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,634 - DEBUG - Nouvelle image détectée, taille : 566.98 KB, nom : image17.png
+2025-06-19 22:31:54,634 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,634 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,634 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,634 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,634 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,634 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,642 - DEBUG - Nouvelle image détectée, taille : 555.27 KB, nom : image18.png
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,642 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,642 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,642 - DEBUG - Nouvelle image détectée, taille : 372.67 KB, nom : image19.png
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,642 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,642 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,657 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,657 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,657 - DEBUG - Nouvelle image détectée, taille : 362.72 KB, nom : image20.png
+2025-06-19 22:31:54,663 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,663 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,663 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,663 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,663 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,663 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,663 - DEBUG - Nouvelle image détectée, taille : 663.04 KB, nom : image21.png
+2025-06-19 22:31:54,673 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,673 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,673 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,678 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,680 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,680 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,680 - DEBUG - Nouvelle image détectée, taille : 690.54 KB, nom : image22.png
+2025-06-19 22:31:54,680 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,680 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,686 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,688 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,689 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,689 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,689 - DEBUG - Nouvelle image détectée, taille : 371.72 KB, nom : image23.png
+2025-06-19 22:31:54,689 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,689 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,689 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,689 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,689 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,689 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,701 - DEBUG - Nouvelle image détectée, taille : 468.42 KB, nom : image24.png
+2025-06-19 22:31:54,704 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,704 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,704 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,707 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,707 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,709 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,709 - DEBUG - Nouvelle image détectée, taille : 301.40 KB, nom : image25.png
+2025-06-19 22:31:54,713 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,713 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,713 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,717 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,717 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,717 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,720 - DEBUG - Nouvelle image détectée, taille : 305.01 KB, nom : image26.png
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,724 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,724 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,724 - DEBUG - Analyse de 2 formes
+2025-06-19 22:31:54,724 - DEBUG - Traitement de la forme 1/2
+2025-06-19 22:31:54,736 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 2/2
+2025-06-19 22:31:54,736 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,736 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,736 - DEBUG - Analyse de 7 formes
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 1/7
+2025-06-19 22:31:54,736 - DEBUG - Nouvelle image détectée, taille : 111.63 KB, nom : image27.jpeg
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 2/7
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 3/7
+2025-06-19 22:31:54,736 - DEBUG - Nouvelle image détectée, taille : 1.72 KB, nom : image8.png
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 4/7
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 5/7
+2025-06-19 22:31:54,736 - DEBUG - Traitement de la forme 6/7
+2025-06-19 22:31:54,752 - DEBUG - Nouvelle image détectée, taille : 196.88 KB, nom : image28.gif
+2025-06-19 22:31:54,752 - DEBUG - Traitement de la forme 7/7
+2025-06-19 22:31:54,752 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,759 - DEBUG - Analyse de 9 formes
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 1/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 2/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 3/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 4/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 5/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 6/9
+2025-06-19 22:31:54,759 - DEBUG - Traitement de la forme 7/9
+2025-06-19 22:31:54,766 - DEBUG - Nouvelle image détectée, taille : 3.10 KB, nom : image3.png
+2025-06-19 22:31:54,768 - DEBUG - Traitement de la forme 8/9
+2025-06-19 22:31:54,769 - DEBUG - Traitement de la forme 9/9
+2025-06-19 22:31:54,770 - DEBUG - Analyse de 12 formes
+2025-06-19 22:31:54,770 - DEBUG - Traitement de la forme 1/12
+2025-06-19 22:31:54,770 - DEBUG - Traitement de la forme 2/12
+2025-06-19 22:31:54,772 - DEBUG - Traitement de la forme 3/12
+2025-06-19 22:31:54,772 - DEBUG - Traitement de la forme 4/12
+2025-06-19 22:31:54,774 - DEBUG - Traitement de la forme 5/12
+2025-06-19 22:31:54,774 - DEBUG - Traitement de la forme 6/12
+2025-06-19 22:31:54,774 - DEBUG - Traitement de la forme 7/12
+2025-06-19 22:31:54,774 - DEBUG - Traitement de la forme 8/12
+2025-06-19 22:31:54,774 - DEBUG - Traitement de la forme 9/12
+2025-06-19 22:31:54,776 - DEBUG - Traitement de la forme 10/12
+2025-06-19 22:31:54,776 - DEBUG - Traitement de la forme 11/12
+2025-06-19 22:31:54,776 - DEBUG - Traitement de la forme 12/12
+2025-06-19 22:31:54,776 - DEBUG - Analyse de 16 formes
+2025-06-19 22:31:54,778 - DEBUG - Traitement de la forme 1/16
+2025-06-19 22:31:54,778 - DEBUG - Traitement de la forme 2/16
+2025-06-19 22:31:54,778 - DEBUG - Traitement de la forme 3/16
+2025-06-19 22:31:54,778 - DEBUG - Traitement de la forme 4/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 5/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 6/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 7/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 8/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 9/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 10/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 11/16
+2025-06-19 22:31:54,780 - DEBUG - Traitement de la forme 12/16
+2025-06-19 22:31:54,784 - DEBUG - Traitement de la forme 13/16
+2025-06-19 22:31:54,784 - DEBUG - Traitement de la forme 14/16
+2025-06-19 22:31:54,784 - DEBUG - Traitement de la forme 15/16
+2025-06-19 22:31:54,784 - DEBUG - Traitement de la forme 16/16
+2025-06-19 22:31:54,784 - DEBUG - Analyse de 15 formes
+2025-06-19 22:31:54,788 - DEBUG - Traitement de la forme 1/15
+2025-06-19 22:31:54,792 - DEBUG - Nouvelle image détectée, taille : 1898.14 KB, nom : image29.gif
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 2/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 3/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 4/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 5/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 6/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 7/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 8/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 9/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 10/15
+2025-06-19 22:31:54,794 - DEBUG - Traitement de la forme 11/15
+2025-06-19 22:31:54,800 - DEBUG - Traitement de la forme 12/15
+2025-06-19 22:31:54,800 - DEBUG - Traitement de la forme 13/15
+2025-06-19 22:31:54,800 - DEBUG - Traitement de la forme 14/15
+2025-06-19 22:31:54,800 - DEBUG - Traitement de la forme 15/15
+2025-06-19 22:31:54,800 - DEBUG - Analyse de 1 formes
+2025-06-19 22:31:54,800 - DEBUG - Traitement de la forme 1/1
+2025-06-19 22:31:54,800 - DEBUG - Analyse de 16 formes
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 1/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 2/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 3/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 4/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 5/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 6/16
+2025-06-19 22:31:54,804 - DEBUG - Traitement de la forme 7/16
+2025-06-19 22:31:54,808 - DEBUG - Traitement de la forme 8/16
+2025-06-19 22:31:54,808 - DEBUG - Traitement de la forme 9/16
+2025-06-19 22:31:54,808 - DEBUG - Traitement de la forme 10/16
+2025-06-19 22:31:54,808 - DEBUG - Traitement de la forme 11/16
+2025-06-19 22:31:54,810 - DEBUG - Traitement de la forme 12/16
+2025-06-19 22:31:54,810 - DEBUG - Traitement de la forme 13/16
+2025-06-19 22:31:54,810 - DEBUG - Traitement de la forme 14/16
+2025-06-19 22:31:54,810 - DEBUG - Traitement de la forme 15/16
+2025-06-19 22:31:54,810 - DEBUG - Traitement de la forme 16/16
+2025-06-19 22:31:54,813 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,813 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,813 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,816 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,816 - DEBUG - Analyse de 3 formes
+2025-06-19 22:31:54,816 - DEBUG - Traitement de la forme 1/3
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 2/3
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 3/3
+2025-06-19 22:31:54,819 - DEBUG - Analyse de 0 formes
+2025-06-19 22:31:54,819 - DEBUG - Analyse de 4 formes
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 1/4
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 2/4
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 3/4
+2025-06-19 22:31:54,819 - DEBUG - Traitement de la forme 4/4
+2025-06-19 22:31:54,819 - DEBUG - 
+Analyse des images utilisées :
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'PLTE' 41 222
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IDAT' 275 6094
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IDAT' 91 52424
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,819 - DEBUG - STREAM b'IDAT' 91 39782
+2025-06-19 22:31:54,830 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,830 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,830 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 22:31:54,830 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,830 - DEBUG - STREAM b'tEXt' 91 18
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 121 37086
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 54 65482
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'PLTE' 41 102
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'tRNS' 155 32
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 199 16160
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'gAMA' 54 4
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 91 65445
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'pHYs' 41 9
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 62 8192
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'iTXt' 41 1723
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'pHYs' 1776 9
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'PLTE' 1797 768
+2025-06-19 22:31:54,832 - DEBUG - STREAM b'IDAT' 2577 6878
+2025-06-19 22:31:54,851 - INFO - Analyse terminée - Images non utilisées : 25, Images rognées : 0.00%
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'iCCP' 41 1038
+2025-06-19 22:31:54,863 - DEBUG - iCCP profile name b'kCGColorSpaceGenericRGB'
+2025-06-19 22:31:54,863 - DEBUG - Compression method 0
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 1091 56
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 1159 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,879 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 22:31:54,879 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 22:31:54,879 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,879 - DEBUG - STREAM b'PLTE' 91 84
+2025-06-19 22:31:54,879 - DEBUG - STREAM b'IDAT' 187 8192
+2025-06-19 22:31:54,883 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,883 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,883 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,883 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'PLTE' 91 81
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IDAT' 184 8192
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,886 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,895 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,895 - DEBUG - STREAM b'gAMA' 41 4
+2025-06-19 22:31:54,895 - DEBUG - STREAM b'sRGB' 57 1
+2025-06-19 22:31:54,895 - DEBUG - STREAM b'pHYs' 70 9
+2025-06-19 22:31:54,895 - DEBUG - STREAM b'PLTE' 91 87
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'IDAT' 190 8192
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,901 - DEBUG - STREAM b'IDAT' 219 16384
+2025-06-19 22:31:54,905 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,905 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,905 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,905 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,905 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,905 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,905 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,905 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,905 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,911 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,911 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,911 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,911 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,915 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,915 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,915 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,915 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,915 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,915 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,915 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,915 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,915 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,915 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,915 - DEBUG - STREAM b'IDAT' 219 1526
+2025-06-19 22:31:54,927 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,927 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,927 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,927 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,927 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 22:31:54,927 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2025-06-19 22:31:54,927 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 74 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,927 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 82 - value: b'\x00\x00\x00\x96\x00\x00\x00\x01'
+2025-06-19 22:31:54,927 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2025-06-19 22:31:54,927 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00Z'
+2025-06-19 22:31:54,944 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,944 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,944 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,944 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,944 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 22:31:54,957 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-19 22:31:54,959 - DEBUG - STREAM b'sRGB' 41 1
+2025-06-19 22:31:54,959 - DEBUG - STREAM b'eXIf' 54 132
+2025-06-19 22:31:54,959 - DEBUG - STREAM b'pHYs' 198 9
+2025-06-19 22:31:54,959 - DEBUG - STREAM b'IDAT' 219 2944
+2025-06-19 22:32:14,184 - INFO - Création de la version allégée pour C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie-compressed.pptx
+2025-06-19 22:32:14,197 - DEBUG - Création du répertoire temporaire : C:\Users\dharlet\AppData\Local\Temp\tmpyxjr75up
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image2.png
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image4.gif
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image7.jpeg
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image8.png
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image9.jpeg
+2025-06-19 22:32:15,774 - DEBUG - Fichier média à supprimer : ppt/media/image10.jpeg
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image11.jpeg
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image12.jpeg
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image13.jpeg
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image14.png
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image15.png
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image16.png
+2025-06-19 22:32:15,779 - DEBUG - Fichier média à supprimer : ppt/media/image17.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image18.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image19.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image20.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image21.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image22.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image23.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image24.png
+2025-06-19 22:32:15,782 - DEBUG - Fichier média à supprimer : ppt/media/image25.png
+2025-06-19 22:32:15,784 - DEBUG - Fichier média à supprimer : ppt/media/image26.png
+2025-06-19 22:32:15,784 - DEBUG - Fichier média à supprimer : ppt/media/image27.jpeg
+2025-06-19 22:32:15,784 - DEBUG - Fichier média à supprimer : ppt/media/image28.gif
+2025-06-19 22:32:15,784 - DEBUG - Fichier média à supprimer : ppt/media/image29.gif
+2025-06-19 22:32:15,786 - DEBUG - Suppression du fichier : ppt/media/image2.png
+2025-06-19 22:32:15,788 - DEBUG - Suppression du fichier : ppt/media/image4.gif
+2025-06-19 22:32:15,790 - DEBUG - Suppression du fichier : ppt/media/image7.jpeg
+2025-06-19 22:32:15,792 - DEBUG - Suppression du fichier : ppt/media/image8.png
+2025-06-19 22:32:15,794 - DEBUG - Suppression du fichier : ppt/media/image9.jpeg
+2025-06-19 22:32:15,795 - DEBUG - Suppression du fichier : ppt/media/image10.jpeg
+2025-06-19 22:32:15,797 - DEBUG - Suppression du fichier : ppt/media/image11.jpeg
+2025-06-19 22:32:15,799 - DEBUG - Suppression du fichier : ppt/media/image12.jpeg
+2025-06-19 22:32:15,801 - DEBUG - Suppression du fichier : ppt/media/image13.jpeg
+2025-06-19 22:32:15,803 - DEBUG - Suppression du fichier : ppt/media/image14.png
+2025-06-19 22:32:15,803 - DEBUG - Suppression du fichier : ppt/media/image15.png
+2025-06-19 22:32:15,807 - DEBUG - Suppression du fichier : ppt/media/image16.png
+2025-06-19 22:32:15,809 - DEBUG - Suppression du fichier : ppt/media/image17.png
+2025-06-19 22:32:15,811 - DEBUG - Suppression du fichier : ppt/media/image18.png
+2025-06-19 22:32:15,813 - DEBUG - Suppression du fichier : ppt/media/image19.png
+2025-06-19 22:32:15,815 - DEBUG - Suppression du fichier : ppt/media/image20.png
+2025-06-19 22:32:15,817 - DEBUG - Suppression du fichier : ppt/media/image21.png
+2025-06-19 22:32:15,819 - DEBUG - Suppression du fichier : ppt/media/image22.png
+2025-06-19 22:32:15,821 - DEBUG - Suppression du fichier : ppt/media/image23.png
+2025-06-19 22:32:15,822 - DEBUG - Suppression du fichier : ppt/media/image24.png
+2025-06-19 22:32:15,824 - DEBUG - Suppression du fichier : ppt/media/image25.png
+2025-06-19 22:32:15,826 - DEBUG - Suppression du fichier : ppt/media/image26.png
+2025-06-19 22:32:15,829 - DEBUG - Suppression du fichier : ppt/media/image27.jpeg
+2025-06-19 22:32:15,832 - DEBUG - Suppression du fichier : ppt/media/image28.gif
+2025-06-19 22:32:15,834 - DEBUG - Suppression du fichier : ppt/media/image29.gif
+2025-06-19 22:32:15,842 - DEBUG - Ajout du fichier dans l'archive : [Content_Types].xml
+2025-06-19 22:32:15,844 - DEBUG - Ajout du fichier dans l'archive : customXml\item1.xml
+2025-06-19 22:32:15,847 - DEBUG - Ajout du fichier dans l'archive : customXml\item2.xml
+2025-06-19 22:32:15,849 - DEBUG - Ajout du fichier dans l'archive : customXml\item3.xml
+2025-06-19 22:32:15,849 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps1.xml
+2025-06-19 22:32:15,853 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps2.xml
+2025-06-19 22:32:15,853 - DEBUG - Ajout du fichier dans l'archive : customXml\itemProps3.xml
+2025-06-19 22:32:15,855 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item1.xml.rels
+2025-06-19 22:32:15,857 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item2.xml.rels
+2025-06-19 22:32:15,858 - DEBUG - Ajout du fichier dans l'archive : customXml\_rels\item3.xml.rels
+2025-06-19 22:32:15,859 - DEBUG - Ajout du fichier dans l'archive : docProps\app.xml
+2025-06-19 22:32:15,861 - DEBUG - Ajout du fichier dans l'archive : docProps\core.xml
+2025-06-19 22:32:15,863 - DEBUG - Ajout du fichier dans l'archive : docProps\custom.xml
+2025-06-19 22:32:15,865 - DEBUG - Ajout du fichier dans l'archive : ppt\authors.xml
+2025-06-19 22:32:15,865 - DEBUG - Ajout du fichier dans l'archive : ppt\presentation.xml
+2025-06-19 22:32:15,869 - DEBUG - Ajout du fichier dans l'archive : ppt\presProps.xml
+2025-06-19 22:32:15,869 - DEBUG - Ajout du fichier dans l'archive : ppt\tableStyles.xml
+2025-06-19 22:32:15,871 - DEBUG - Ajout du fichier dans l'archive : ppt\viewProps.xml
+2025-06-19 22:32:15,875 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font1.fntdata
+2025-06-19 22:32:15,877 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font2.fntdata
+2025-06-19 22:32:15,880 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font3.fntdata
+2025-06-19 22:32:15,882 - DEBUG - Ajout du fichier dans l'archive : ppt\fonts\font4.fntdata
+2025-06-19 22:32:15,884 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image1.gif
+2025-06-19 22:32:15,887 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image3.png
+2025-06-19 22:32:15,888 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image30.png
+2025-06-19 22:32:15,892 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image31.png
+2025-06-19 22:32:15,897 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image32.png
+2025-06-19 22:32:15,897 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image33.png
+2025-06-19 22:32:15,924 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image34.png
+2025-06-19 22:32:15,933 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image35.png
+2025-06-19 22:32:15,938 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image36.jpeg
+2025-06-19 22:32:15,943 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image37.png
+2025-06-19 22:32:15,965 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image38.png
+2025-06-19 22:32:15,967 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image39.png
+2025-06-19 22:32:15,977 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image40.png
+2025-06-19 22:32:15,977 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image41.png
+2025-06-19 22:32:15,979 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image42.png
+2025-06-19 22:32:16,008 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image43.jpeg
+2025-06-19 22:32:16,049 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image44.gif
+2025-06-19 22:32:16,056 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image5.jpeg
+2025-06-19 22:32:16,091 - DEBUG - Ajout du fichier dans l'archive : ppt\media\image6.gif
+2025-06-19 22:32:16,093 - DEBUG - Ajout du fichier dans l'archive : ppt\notesMasters\notesMaster1.xml
+2025-06-19 22:32:16,094 - DEBUG - Ajout du fichier dans l'archive : ppt\notesMasters\_rels\notesMaster1.xml.rels
+2025-06-19 22:32:16,098 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide1.xml
+2025-06-19 22:32:16,100 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide10.xml
+2025-06-19 22:32:16,102 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide11.xml
+2025-06-19 22:32:16,103 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide12.xml
+2025-06-19 22:32:16,104 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide13.xml
+2025-06-19 22:32:16,104 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide14.xml
+2025-06-19 22:32:16,106 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide15.xml
+2025-06-19 22:32:16,108 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide16.xml
+2025-06-19 22:32:16,111 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide2.xml
+2025-06-19 22:32:16,114 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide3.xml
+2025-06-19 22:32:16,114 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide4.xml
+2025-06-19 22:32:16,114 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide5.xml
+2025-06-19 22:32:16,117 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide6.xml
+2025-06-19 22:32:16,119 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide7.xml
+2025-06-19 22:32:16,119 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide8.xml
+2025-06-19 22:32:16,121 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\notesSlide9.xml
+2025-06-19 22:32:16,124 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide1.xml.rels
+2025-06-19 22:32:16,124 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide10.xml.rels
+2025-06-19 22:32:16,126 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide11.xml.rels
+2025-06-19 22:32:16,128 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide12.xml.rels
+2025-06-19 22:32:16,131 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide13.xml.rels
+2025-06-19 22:32:16,131 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide14.xml.rels
+2025-06-19 22:32:16,133 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide15.xml.rels
+2025-06-19 22:32:16,136 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide16.xml.rels
+2025-06-19 22:32:16,138 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide2.xml.rels
+2025-06-19 22:32:16,139 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide3.xml.rels
+2025-06-19 22:32:16,139 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide4.xml.rels
+2025-06-19 22:32:16,144 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide5.xml.rels
+2025-06-19 22:32:16,147 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide6.xml.rels
+2025-06-19 22:32:16,149 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide7.xml.rels
+2025-06-19 22:32:16,151 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide8.xml.rels
+2025-06-19 22:32:16,151 - DEBUG - Ajout du fichier dans l'archive : ppt\notesSlides\_rels\notesSlide9.xml.rels
+2025-06-19 22:32:16,153 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout1.xml
+2025-06-19 22:32:16,157 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout10.xml
+2025-06-19 22:32:16,160 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout11.xml
+2025-06-19 22:32:16,160 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout12.xml
+2025-06-19 22:32:16,163 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout13.xml
+2025-06-19 22:32:16,165 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout14.xml
+2025-06-19 22:32:16,167 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout15.xml
+2025-06-19 22:32:16,167 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout16.xml
+2025-06-19 22:32:16,167 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout17.xml
+2025-06-19 22:32:16,167 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout18.xml
+2025-06-19 22:32:16,175 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout19.xml
+2025-06-19 22:32:16,177 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout2.xml
+2025-06-19 22:32:16,180 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout20.xml
+2025-06-19 22:32:16,180 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout21.xml
+2025-06-19 22:32:16,183 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout22.xml
+2025-06-19 22:32:16,185 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout23.xml
+2025-06-19 22:32:16,189 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout24.xml
+2025-06-19 22:32:16,191 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout25.xml
+2025-06-19 22:32:16,193 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout26.xml
+2025-06-19 22:32:16,195 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout27.xml
+2025-06-19 22:32:16,199 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout28.xml
+2025-06-19 22:32:16,201 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout29.xml
+2025-06-19 22:32:16,203 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout3.xml
+2025-06-19 22:32:16,205 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout30.xml
+2025-06-19 22:32:16,206 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout31.xml
+2025-06-19 22:32:16,208 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout32.xml
+2025-06-19 22:32:16,210 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout33.xml
+2025-06-19 22:32:16,212 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout34.xml
+2025-06-19 22:32:16,214 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout35.xml
+2025-06-19 22:32:16,216 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout36.xml
+2025-06-19 22:32:16,216 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout37.xml
+2025-06-19 22:32:16,218 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout38.xml
+2025-06-19 22:32:16,220 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout39.xml
+2025-06-19 22:32:16,221 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout4.xml
+2025-06-19 22:32:16,223 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout40.xml
+2025-06-19 22:32:16,225 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout41.xml
+2025-06-19 22:32:16,225 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout42.xml
+2025-06-19 22:32:16,227 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout43.xml
+2025-06-19 22:32:16,231 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout44.xml
+2025-06-19 22:32:16,233 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout45.xml
+2025-06-19 22:32:16,235 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout46.xml
+2025-06-19 22:32:16,236 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout5.xml
+2025-06-19 22:32:16,238 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout6.xml
+2025-06-19 22:32:16,240 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout7.xml
+2025-06-19 22:32:16,242 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout8.xml
+2025-06-19 22:32:16,244 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\slideLayout9.xml
+2025-06-19 22:32:16,247 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout1.xml.rels
+2025-06-19 22:32:16,249 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout10.xml.rels
+2025-06-19 22:32:16,252 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout11.xml.rels
+2025-06-19 22:32:16,252 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout12.xml.rels
+2025-06-19 22:32:16,254 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout13.xml.rels
+2025-06-19 22:32:16,256 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout14.xml.rels
+2025-06-19 22:32:16,257 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout15.xml.rels
+2025-06-19 22:32:16,259 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout16.xml.rels
+2025-06-19 22:32:16,261 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout17.xml.rels
+2025-06-19 22:32:16,263 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout18.xml.rels
+2025-06-19 22:32:16,263 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout19.xml.rels
+2025-06-19 22:32:16,263 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout2.xml.rels
+2025-06-19 22:32:16,267 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout20.xml.rels
+2025-06-19 22:32:16,269 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout21.xml.rels
+2025-06-19 22:32:16,271 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout22.xml.rels
+2025-06-19 22:32:16,273 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout23.xml.rels
+2025-06-19 22:32:16,273 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout24.xml.rels
+2025-06-19 22:32:16,276 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout25.xml.rels
+2025-06-19 22:32:16,278 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout26.xml.rels
+2025-06-19 22:32:16,280 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout27.xml.rels
+2025-06-19 22:32:16,283 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout28.xml.rels
+2025-06-19 22:32:16,284 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout29.xml.rels
+2025-06-19 22:32:16,284 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout3.xml.rels
+2025-06-19 22:32:16,286 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout30.xml.rels
+2025-06-19 22:32:16,288 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout31.xml.rels
+2025-06-19 22:32:16,290 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout32.xml.rels
+2025-06-19 22:32:16,292 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout33.xml.rels
+2025-06-19 22:32:16,294 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout34.xml.rels
+2025-06-19 22:32:16,294 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout35.xml.rels
+2025-06-19 22:32:16,297 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout36.xml.rels
+2025-06-19 22:32:16,299 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout37.xml.rels
+2025-06-19 22:32:16,301 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout38.xml.rels
+2025-06-19 22:32:16,304 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout39.xml.rels
+2025-06-19 22:32:16,307 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout4.xml.rels
+2025-06-19 22:32:16,309 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout40.xml.rels
+2025-06-19 22:32:16,311 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout41.xml.rels
+2025-06-19 22:32:16,311 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout42.xml.rels
+2025-06-19 22:32:16,315 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout43.xml.rels
+2025-06-19 22:32:16,319 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout44.xml.rels
+2025-06-19 22:32:16,320 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout45.xml.rels
+2025-06-19 22:32:16,322 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout46.xml.rels
+2025-06-19 22:32:16,324 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout5.xml.rels
+2025-06-19 22:32:16,324 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout6.xml.rels
+2025-06-19 22:32:16,327 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout7.xml.rels
+2025-06-19 22:32:16,331 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout8.xml.rels
+2025-06-19 22:32:16,333 - DEBUG - Ajout du fichier dans l'archive : ppt\slideLayouts\_rels\slideLayout9.xml.rels
+2025-06-19 22:32:16,335 - DEBUG - Ajout du fichier dans l'archive : ppt\slideMasters\slideMaster1.xml
+2025-06-19 22:32:16,337 - DEBUG - Ajout du fichier dans l'archive : ppt\slideMasters\_rels\slideMaster1.xml.rels
+2025-06-19 22:32:16,340 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide1.xml
+2025-06-19 22:32:16,342 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide10.xml
+2025-06-19 22:32:16,344 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide11.xml
+2025-06-19 22:32:16,344 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide12.xml
+2025-06-19 22:32:16,348 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide13.xml
+2025-06-19 22:32:16,348 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide14.xml
+2025-06-19 22:32:16,350 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide15.xml
+2025-06-19 22:32:16,352 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide16.xml
+2025-06-19 22:32:16,354 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide17.xml
+2025-06-19 22:32:16,354 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide18.xml
+2025-06-19 22:32:16,356 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide19.xml
+2025-06-19 22:32:16,358 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide2.xml
+2025-06-19 22:32:16,360 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide20.xml
+2025-06-19 22:32:16,362 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide21.xml
+2025-06-19 22:32:16,364 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide22.xml
+2025-06-19 22:32:16,366 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide23.xml
+2025-06-19 22:32:16,368 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide24.xml
+2025-06-19 22:32:16,370 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide25.xml
+2025-06-19 22:32:16,370 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide26.xml
+2025-06-19 22:32:16,370 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide27.xml
+2025-06-19 22:32:16,374 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide28.xml
+2025-06-19 22:32:16,375 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide3.xml
+2025-06-19 22:32:16,377 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide4.xml
+2025-06-19 22:32:16,378 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide5.xml
+2025-06-19 22:32:16,382 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide6.xml
+2025-06-19 22:32:16,384 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide7.xml
+2025-06-19 22:32:16,386 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide8.xml
+2025-06-19 22:32:16,386 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\slide9.xml
+2025-06-19 22:32:16,388 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide1.xml.rels
+2025-06-19 22:32:16,390 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide10.xml.rels
+2025-06-19 22:32:16,392 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide11.xml.rels
+2025-06-19 22:32:16,394 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide12.xml.rels
+2025-06-19 22:32:16,394 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide13.xml.rels
+2025-06-19 22:32:16,398 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide14.xml.rels
+2025-06-19 22:32:16,400 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide15.xml.rels
+2025-06-19 22:32:16,400 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide16.xml.rels
+2025-06-19 22:32:16,402 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide17.xml.rels
+2025-06-19 22:32:16,404 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide18.xml.rels
+2025-06-19 22:32:16,406 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide19.xml.rels
+2025-06-19 22:32:16,408 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide2.xml.rels
+2025-06-19 22:32:16,411 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide20.xml.rels
+2025-06-19 22:32:16,412 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide21.xml.rels
+2025-06-19 22:32:16,414 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide22.xml.rels
+2025-06-19 22:32:16,416 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide23.xml.rels
+2025-06-19 22:32:16,417 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide24.xml.rels
+2025-06-19 22:32:16,419 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide25.xml.rels
+2025-06-19 22:32:16,421 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide26.xml.rels
+2025-06-19 22:32:16,423 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide27.xml.rels
+2025-06-19 22:32:16,425 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide28.xml.rels
+2025-06-19 22:32:16,425 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide3.xml.rels
+2025-06-19 22:32:16,428 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide4.xml.rels
+2025-06-19 22:32:16,431 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide5.xml.rels
+2025-06-19 22:32:16,432 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide6.xml.rels
+2025-06-19 22:32:16,434 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide7.xml.rels
+2025-06-19 22:32:16,436 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide8.xml.rels
+2025-06-19 22:32:16,438 - DEBUG - Ajout du fichier dans l'archive : ppt\slides\_rels\slide9.xml.rels
+2025-06-19 22:32:16,441 - DEBUG - Ajout du fichier dans l'archive : ppt\theme\theme1.xml
+2025-06-19 22:32:16,445 - DEBUG - Ajout du fichier dans l'archive : ppt\theme\theme2.xml
+2025-06-19 22:32:16,448 - DEBUG - Ajout du fichier dans l'archive : ppt\_rels\presentation.xml.rels
+2025-06-19 22:32:16,450 - DEBUG - Ajout du fichier dans l'archive : _rels\.rels
+2025-06-19 22:32:16,639 - INFO - Version allégée créée avec succès : C:/Users/dharlet/Downloads/Niji - DejTech - Tests de performances - v1.0 - Copie-compressed_light.pptx
