@@ -1,47 +1,48 @@
 @echo off
-setlocal
+chcp 65001 >nul
+echo ========================================
+echo    Création de la version portable
+echo    Slim PPTX
+echo ========================================
+echo.
 
-echo Activation de l'environnement virtuel...
-call venv\Scripts\activate.bat
-
-echo Installation des dépendances...
-pip install -r requirements.txt
-
-REM === Téléchargement automatique de la DLL tkdnd2.8 si absente ===
-set TKDND_URL=https://sourceforge.net/projects/tkdnd/files/tkdnd/2.8/tkdnd2.8-win64-20200224.zip/download
-set TKDND_ZIP=tkdnd2.8-win64.zip
-
-if not exist "tkdnd2.8" (
-    mkdir tkdnd2.8
-)
-
-if not exist "tkdnd2.8\tkdnd2.8.dll" (
-    echo Téléchargement de tkdnd2.8.dll...
-    curl -L -o "%TKDND_ZIP%" "%TKDND_URL%"
-    echo Extraction de tkdnd2.8.dll...
-    powershell -Command "Expand-Archive -Path '%TKDND_ZIP%' -DestinationPath 'tkdnd2.8' -Force"
-    del "%TKDND_ZIP%"
-)
-
-if not exist "tkdnd2.8\tkdnd2.8.dll" (
-    echo ERREUR : La DLL tkdnd2.8.dll n'a pas pu être téléchargée ou extraite !
+REM Vérification de Python
+python --version >nul 2>&1
+if errorlevel 1 (
+    echo ❌ Python n'est pas installé ou n'est pas dans le PATH
+    echo Veuillez installer Python et réessayer
     pause
     exit /b 1
 )
 
-echo Création de la version portable...
-pyinstaller --noconfirm --onefile --windowed --name "Slim_PPTX" --icon=NONE ^
-    --add-binary "tkdnd2.8\\tkdnd2.8.dll;tkdnd2.8/" slim_pptx.py
+echo ✅ Python détecté
+echo.
 
-echo Copie des fichiers nécessaires...
-mkdir "dist\Slim_PPTX_Portable"
-copy "dist\Slim_PPTX.exe" "dist\Slim_PPTX_Portable\"
-copy "README.md" "dist\Slim_PPTX_Portable\"
-xcopy "tkdnd2.8" "dist\Slim_PPTX_Portable\tkdnd2.8\" /E /Y
+REM Activation de l'environnement virtuel si disponible
+if exist "venv\unified_analyzer_env\Scripts\activate.bat" (
+    echo 🔧 Activation de l'environnement virtuel...
+    call "venv\unified_analyzer_env\Scripts\activate.bat"
+    echo ✅ Environnement virtuel activé
+    echo.
+)
 
-echo Nettoyage...
-rmdir /s /q build
-del /q "Slim_PPTX.spec"
+REM Lancement du script de build
+echo 🚀 Lancement du build portable...
+python build_portable.py
 
-echo Version portable créée dans le dossier dist\Slim_PPTX_Portable
+if errorlevel 1 (
+    echo.
+    echo ❌ Erreur lors du build
+    pause
+    exit /b 1
+)
+
+echo.
+echo ✅ Build terminé avec succès!
+echo.
+echo 📁 Dossier créé: Slim_PPTX_Portable
+echo 📦 Archive créée: Slim_PPTX_Portable.zip
+echo.
+echo Vous pouvez maintenant distribuer la version portable.
+echo.
 pause 

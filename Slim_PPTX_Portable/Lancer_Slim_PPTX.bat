@@ -1,0 +1,3 @@
+@echo off
+echo Lancement de Slim PPTX...
+start Slim_PPTX.exe
